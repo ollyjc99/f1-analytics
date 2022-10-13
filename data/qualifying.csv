@@ -1,775 +1,775 @@
-grid_pos,driver,constructor,season,round,qual_time
-1,Valtteri  Bottas  BOT,Mercedes,2020,1,62.939
-2,Max  Verstappen  VER,Red Bull Racing Honda,2020,1,63.477
-3,Lando  Norris  NOR,McLaren Renault,2020,1,63.626
-4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,1,63.868
-5,Lewis  Hamilton  HAM,Mercedes,2020,1,62.951
-6,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,1,63.868
-7,Charles  Leclerc  LEC,Ferrari,2020,1,63.923
-8,Carlos  Sainz  SAI,McLaren Renault,2020,1,63.971000000000004
-9,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,1,64.029
-10,Daniel  Ricciardo  RIC,Renault,2020,1,64.239
-11,Sebastian  Vettel  VET,Ferrari,2020,1,64.206
-12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,1,64.305
-13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,1,64.431
-14,Esteban  Ocon  OCO,Renault,2020,1,64.643
-15,Romain  Grosjean  GRO,Haas Ferrari,2020,1,64.691
-16,Kevin  Magnussen  MAG,Haas Ferrari,2020,1,65.164
-17,George  Russell  RUS,Williams Mercedes,2020,1,65.167
-18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,1,65.175
-19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,1,65.224
-20,Nicholas  Latifi  LAT,Williams Mercedes,2020,1,65.757
-1,Lewis  Hamilton  HAM,Mercedes,2020,2,79.273
-2,Max  Verstappen  VER,Red Bull Racing Honda,2020,2,80.489
-3,Carlos  Sainz  SAI,McLaren Renault,2020,2,80.67099999999999
-4,Valtteri  Bottas  BOT,Mercedes,2020,2,80.701
-5,Esteban  Ocon  OCO,Renault,2020,2,80.922
-6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,2,81.011
-7,Pierre  Gasly  GAS,AlphaTauri Honda,2020,2,81.02799999999999
-8,Daniel  Ricciardo  RIC,Renault,2020,2,81.19200000000001
-9,Lando  Norris  NOR,McLaren Renault,2020,2,80.925
-10,Sebastian  Vettel  VET,Ferrari,2020,2,81.651
-11,George  Russell  RUS,Williams Mercedes,2020,2,79.636
-12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,2,79.645
-13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,2,79.717
-14,Charles  Leclerc  LEC,Ferrari,2020,2,79.628
-15,Kevin  Magnussen  MAG,Haas Ferrari,2020,2,80.211
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,2,81.372
-17,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,2,81.607
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,2,81.759
-19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,2,81.831
-1,Lewis  Hamilton  HAM,Mercedes,2020,3,73.447
-2,Valtteri  Bottas  BOT,Mercedes,2020,3,73.554
-3,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,3,74.377
-4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,3,74.545
-5,Sebastian  Vettel  VET,Ferrari,2020,3,74.774
-6,Charles  Leclerc  LEC,Ferrari,2020,3,74.81700000000001
-7,Max  Verstappen  VER,Red Bull Racing Honda,2020,3,74.849
-8,Lando  Norris  NOR,McLaren Renault,2020,3,74.966
-9,Carlos  Sainz  SAI,McLaren Renault,2020,3,75.027
-10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,3,
-11,Daniel  Ricciardo  RIC,Renault,2020,3,75.661
-12,George  Russell  RUS,Williams Mercedes,2020,3,75.69800000000001
-13,Alexander  Albon  ALB,Red Bull Racing Honda,2020,3,75.715
-14,Esteban  Ocon  OCO,Renault,2020,3,75.742
-15,Nicholas  Latifi  LAT,Williams Mercedes,2020,3,76.544
-16,Kevin  Magnussen  MAG,Haas Ferrari,2020,3,76.152
-17,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,3,76.20400000000001
-18,Romain  Grosjean  GRO,Haas Ferrari,2020,3,76.407
-19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,3,76.506
-20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,3,76.614
-1,Lewis  Hamilton  HAM,Mercedes,2020,4,84.303
-2,Valtteri  Bottas  BOT,Mercedes,2020,4,84.616
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,4,85.325
-4,Charles  Leclerc  LEC,Ferrari,2020,4,85.42699999999999
-5,Lando  Norris  NOR,McLaren Renault,2020,4,85.782
-6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,4,85.839
-7,Carlos  Sainz  SAI,McLaren Renault,2020,4,85.965
-8,Daniel  Ricciardo  RIC,Renault,2020,4,86.009
-9,Esteban  Ocon  OCO,Renault,2020,4,86.209
-10,Sebastian  Vettel  VET,Ferrari,2020,4,86.339
-11,Pierre  Gasly  GAS,AlphaTauri Honda,2020,4,86.501
-12,Alexander  Albon  ALB,Red Bull Racing Honda,2020,4,86.545
-13,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,4,86.566
-14,Kevin  Magnussen  MAG,Haas Ferrari,2020,4,87.158
-15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,4,87.164
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,4,87.366
-17,Romain  Grosjean  GRO,Haas Ferrari,2020,4,87.643
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,4,87.705
-19,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,4,86.744
-20,George  Russell  RUS,Williams Mercedes,2020,4,87.092
-1,Valtteri  Bottas  BOT,Mercedes,2020,5,85.154
-2,Lewis  Hamilton  HAM,Mercedes,2020,5,85.217
-3,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,5,86.082
-4,Max  Verstappen  VER,Red Bull Racing Honda,2020,5,86.176
-5,Daniel  Ricciardo  RIC,Renault,2020,5,86.297
-6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,5,86.428
-7,Pierre  Gasly  GAS,AlphaTauri Honda,2020,5,86.53399999999999
-8,Charles  Leclerc  LEC,Ferrari,2020,5,86.614
-9,Alexander  Albon  ALB,Red Bull Racing Honda,2020,5,86.669
-10,Lando  Norris  NOR,McLaren Renault,2020,5,86.77799999999999
-11,Sebastian  Vettel  VET,Ferrari,2020,5,87.078
-12,Carlos  Sainz  SAI,McLaren Renault,2020,5,87.083
-13,Romain  Grosjean  GRO,Haas Ferrari,2020,5,87.254
-14,Esteban  Ocon  OCO,Renault,2020,5,87.011
-15,George  Russell  RUS,Williams Mercedes,2020,5,87.455
-16,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,5,87.882
-17,Kevin  Magnussen  MAG,Haas Ferrari,2020,5,88.236
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,5,88.43
-19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,5,88.43299999999999
-20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,5,88.493
-1,Lewis  Hamilton  HAM,Mercedes,2020,6,75.584
-2,Valtteri  Bottas  BOT,Mercedes,2020,6,75.643
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,6,76.292
-4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,6,76.482
-5,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,6,76.589
-6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,6,77.029
-7,Carlos  Sainz  SAI,McLaren Renault,2020,6,77.044
-8,Lando  Norris  NOR,McLaren Renault,2020,6,77.084
-9,Charles  Leclerc  LEC,Ferrari,2020,6,77.087
-10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,6,77.136
-11,Sebastian  Vettel  VET,Ferrari,2020,6,77.168
-12,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,6,77.19200000000001
-13,Daniel  Ricciardo  RIC,Renault,2020,6,77.19800000000001
-14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,6,77.386
-15,Esteban  Ocon  OCO,Renault,2020,6,77.56700000000001
-16,Kevin  Magnussen  MAG,Haas Ferrari,2020,6,77.908
-17,Romain  Grosjean  GRO,Haas Ferrari,2020,6,78.089
-18,George  Russell  RUS,Williams Mercedes,2020,6,78.099
-19,Nicholas  Latifi  LAT,Williams Mercedes,2020,6,78.532
-20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,6,78.697
-1,Lewis  Hamilton  HAM,Mercedes,2020,7,101.25200000000001
-2,Valtteri  Bottas  BOT,Mercedes,2020,7,101.763
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,7,101.77799999999999
-4,Daniel  Ricciardo  RIC,Renault,2020,7,102.061
-5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,7,102.26400000000001
-6,Esteban  Ocon  OCO,Renault,2020,7,102.396
-7,Carlos  Sainz  SAI,McLaren Renault,2020,7,102.438
-8,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,7,102.532
-9,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,7,102.60300000000001
-10,Lando  Norris  NOR,McLaren Renault,2020,7,102.657
-11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,7,102.72999999999999
-12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,7,102.745
-13,Charles  Leclerc  LEC,Ferrari,2020,7,102.99600000000001
-14,Sebastian  Vettel  VET,Ferrari,2020,7,103.261
-15,George  Russell  RUS,Williams Mercedes,2020,7,103.468
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,7,103.743
-17,Romain  Grosjean  GRO,Haas Ferrari,2020,7,103.838
-18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,7,103.95
-19,Nicholas  Latifi  LAT,Williams Mercedes,2020,7,104.138
-20,Kevin  Magnussen  MAG,Haas Ferrari,2020,7,104.314
-1,Lewis  Hamilton  HAM,Mercedes,2020,8,78.887
-2,Valtteri  Bottas  BOT,Mercedes,2020,8,78.956
-3,Carlos  Sainz  SAI,McLaren Renault,2020,8,79.695
-4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,8,79.72
-5,Max  Verstappen  VER,Red Bull Racing Honda,2020,8,79.795
-6,Lando  Norris  NOR,McLaren Renault,2020,8,79.82
-7,Daniel  Ricciardo  RIC,Renault,2020,8,79.864
-8,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,8,80.049
-9,Alexander  Albon  ALB,Red Bull Racing Honda,2020,8,80.09
-10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,8,80.17699999999999
-11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,8,80.169
-12,Esteban  Ocon  OCO,Renault,2020,8,80.23400000000001
-13,Charles  Leclerc  LEC,Ferrari,2020,8,80.273
-14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,8,80.926
-15,Kevin  Magnussen  MAG,Haas Ferrari,2020,8,81.57300000000001
-16,Romain  Grosjean  GRO,Haas Ferrari,2020,8,81.139
-17,Sebastian  Vettel  VET,Ferrari,2020,8,81.151
-18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,8,81.206
-19,George  Russell  RUS,Williams Mercedes,2020,8,81.587
-20,Nicholas  Latifi  LAT,Williams Mercedes,2020,8,81.717
-1,Lewis  Hamilton  HAM,Mercedes,2020,9,75.144
-2,Valtteri  Bottas  BOT,Mercedes,2020,9,75.203
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,9,75.509
-4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,9,75.95400000000001
-5,Charles  Leclerc  LEC,Ferrari,2020,9,76.27
-6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,9,76.356
-7,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,9,76.311
-8,Daniel  Ricciardo  RIC,Renault,2020,9,76.543
-9,Carlos  Sainz  SAI,McLaren Renault,2020,9,77.87
-10,Esteban  Ocon  OCO,Renault,2020,9,
-11,Lando  Norris  NOR,McLaren Renault,2020,9,76.64
-12,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,9,76.854
-13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,9,76.854
-14,Sebastian  Vettel  VET,Ferrari,2020,9,76.858
-15,Romain  Grosjean  GRO,Haas Ferrari,2020,9,77.254
-16,Pierre  Gasly  GAS,AlphaTauri Honda,2020,9,77.125
-17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,9,77.22
-18,George  Russell  RUS,Williams Mercedes,2020,9,77.232
-19,Nicholas  Latifi  LAT,Williams Mercedes,2020,9,77.32
-20,Kevin  Magnussen  MAG,Haas Ferrari,2020,9,77.348
-1,Lewis  Hamilton  HAM,Mercedes,2020,10,91.304
-2,Max  Verstappen  VER,Red Bull Racing Honda,2020,10,91.867
-3,Valtteri  Bottas  BOT,Mercedes,2020,10,91.956
-4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,10,92.31700000000001
-5,Daniel  Ricciardo  RIC,Renault,2020,10,92.364
-6,Carlos  Sainz  SAI,McLaren Renault,2020,10,92.55
-7,Esteban  Ocon  OCO,Renault,2020,10,92.624
-8,Lando  Norris  NOR,McLaren Renault,2020,10,92.84700000000001
-9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,10,93.0
-10,Charles  Leclerc  LEC,Ferrari,2020,10,93.239
-11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,10,93.249
-12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,10,93.364
-13,George  Russell  RUS,Williams Mercedes,2020,10,93.583
-14,Sebastian  Vettel  VET,Ferrari,2020,10,93.60900000000001
-15,Alexander  Albon  ALB,Red Bull Racing Honda,2020,10,93.00800000000001
-16,Romain  Grosjean  GRO,Haas Ferrari,2020,10,94.592
-17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,10,94.594
-18,Kevin  Magnussen  MAG,Haas Ferrari,2020,10,94.681
-19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,10,95.267
-20,Nicholas  Latifi  LAT,Williams Mercedes,2020,10,95.066
-1,Valtteri  Bottas  BOT,Mercedes,2020,11,85.269
-2,Lewis  Hamilton  HAM,Mercedes,2020,11,85.525
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,11,85.562
-4,Charles  Leclerc  LEC,Ferrari,2020,11,86.035
-5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,11,86.047
-6,Daniel  Ricciardo  RIC,Renault,2020,11,86.223
-7,Esteban  Ocon  OCO,Renault,2020,11,86.242
-8,Lando  Norris  NOR,McLaren Renault,2020,11,86.458
-9,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,11,86.70400000000001
-10,Carlos  Sainz  SAI,McLaren Renault,2020,11,86.709
-11,Sebastian  Vettel  VET,Ferrari,2020,11,86.738
-12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,11,86.776
-13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,11,86.848
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,11,86.936
-15,Kevin  Magnussen  MAG,Haas Ferrari,2020,11,87.125
-16,Romain  Grosjean  GRO,Haas Ferrari,2020,11,87.55199999999999
-17,George  Russell  RUS,Williams Mercedes,2020,11,87.564
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,11,87.812
-19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,11,87.81700000000001
-20,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,11,88.021
-1,Lewis  Hamilton  HAM,Mercedes,2020,12,76.652
-2,Valtteri  Bottas  BOT,Mercedes,2020,12,76.754
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,12,76.904
-4,Charles  Leclerc  LEC,Ferrari,2020,12,77.09
-5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,12,77.223
-6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,12,77.437
-7,Carlos  Sainz  SAI,McLaren Renault,2020,12,77.52
-8,Lando  Norris  NOR,McLaren Renault,2020,12,77.525
-9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,12,77.803
-10,Daniel  Ricciardo  RIC,Renault,2020,12,
-11,Esteban  Ocon  OCO,Renault,2020,12,77.614
-12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,12,77.626
-13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,12,77.72800000000001
-14,George  Russell  RUS,Williams Mercedes,2020,12,77.788
-15,Sebastian  Vettel  VET,Ferrari,2020,12,77.919
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,12,78.201
-17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,12,78.32300000000001
-18,Romain  Grosjean  GRO,Haas Ferrari,2020,12,78.364
-19,Kevin  Magnussen  MAG,Haas Ferrari,2020,12,78.508
-20,Nicholas  Latifi  LAT,Williams Mercedes,2020,12,78.777
-1,Valtteri  Bottas  BOT,Mercedes,2020,13,73.609
-2,Lewis  Hamilton  HAM,Mercedes,2020,13,73.706
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,13,74.176
-4,Pierre  Gasly  GAS,AlphaTauri Honda,2020,13,74.502
-5,Daniel  Ricciardo  RIC,Renault,2020,13,74.52
-6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,13,74.572
-7,Charles  Leclerc  LEC,Ferrari,2020,13,74.616
-8,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,13,74.696
-9,Lando  Norris  NOR,McLaren Renault,2020,13,74.814
-10,Carlos  Sainz  SAI,McLaren Renault,2020,13,74.911
-11,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,13,75.061
-12,Esteban  Ocon  OCO,Renault,2020,13,75.201
-13,George  Russell  RUS,Williams Mercedes,2020,13,75.32300000000001
-14,Sebastian  Vettel  VET,Ferrari,2020,13,75.385
-15,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,13,75.494
-16,Romain  Grosjean  GRO,Haas Ferrari,2020,13,75.918
-17,Kevin  Magnussen  MAG,Haas Ferrari,2020,13,75.939
-18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,13,75.953
-19,Nicholas  Latifi  LAT,Williams Mercedes,2020,13,75.987
-20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,13,76.208
-1,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,14,107.765
-2,Max  Verstappen  VER,Red Bull Racing Honda,2020,14,108.055
-3,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,14,109.321
-4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,14,110.44800000000001
-5,Daniel  Ricciardo  RIC,Renault,2020,14,111.595
-6,Lewis  Hamilton  HAM,Mercedes,2020,14,112.56
-7,Esteban  Ocon  OCO,Renault,2020,14,112.622
-8,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,14,112.745
-9,Valtteri  Bottas  BOT,Mercedes,2020,14,113.25800000000001
-10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,14,117.226
-11,Sebastian  Vettel  VET,Ferrari,2020,14,115.169
-12,Charles  Leclerc  LEC,Ferrari,2020,14,116.696
-13,Kevin  Magnussen  MAG,Haas Ferrari,2020,14,128.007
-14,Lando  Norris  NOR,McLaren Renault,2020,14,114.945
-15,Carlos  Sainz  SAI,McLaren Renault,2020,14,115.41
-16,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,14,129.07
-17,Romain  Grosjean  GRO,Haas Ferrari,2020,14,132.909
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,14,141.611
-19,Pierre  Gasly  GAS,AlphaTauri Honda,2020,14,118.556
-20,George  Russell  RUS,Williams Mercedes,2020,14,130.017
-1,Lewis  Hamilton  HAM,Mercedes,2020,15,87.264
-2,Valtteri  Bottas  BOT,Mercedes,2020,15,87.553
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,15,87.678
-4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,15,88.274
-5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,15,88.322
-6,Daniel  Ricciardo  RIC,Renault,2020,15,88.417
-7,Esteban  Ocon  OCO,Renault,2020,15,88.419
-8,Pierre  Gasly  GAS,AlphaTauri Honda,2020,15,88.44800000000001
-9,Lando  Norris  NOR,McLaren Renault,2020,15,88.542
-10,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,15,88.618
-11,Sebastian  Vettel  VET,Ferrari,2020,15,89.149
-12,Charles  Leclerc  LEC,Ferrari,2020,15,89.16499999999999
-13,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,15,89.557
-14,George  Russell  RUS,Williams Mercedes,2020,15,91.218
-15,Carlos  Sainz  SAI,McLaren Renault,2020,15,
-16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,15,89.491
-17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,15,89.81
-18,Kevin  Magnussen  MAG,Haas Ferrari,2020,15,90.111
-19,Romain  Grosjean  GRO,Haas Ferrari,2020,15,90.138
-20,Nicholas  Latifi  LAT,Williams Mercedes,2020,15,90.182
-1,Valtteri  Bottas  BOT,Mercedes,2020,16,53.377
-2,George  Russell  RUS,Mercedes,2020,16,53.403
-3,Max  Verstappen  VER,Red Bull Racing Honda,2020,16,53.433
-4,Charles  Leclerc  LEC,Ferrari,2020,16,53.613
-5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,16,53.79
-6,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,16,53.906
-7,Daniel  Ricciardo  RIC,Renault,2020,16,53.957
-8,Carlos  Sainz  SAI,McLaren Renault,2020,16,54.01
-9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,16,54.154
-10,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,16,54.2
-11,Esteban  Ocon  OCO,Renault,2020,16,53.995
-12,Alexander  Albon  ALB,Red Bull Racing Honda,2020,16,54.026
-13,Sebastian  Vettel  VET,Ferrari,2020,16,54.175
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,16,54.377
-15,Lando  Norris  NOR,McLaren Renault,2020,16,54.693
-16,Kevin  Magnussen  MAG,Haas Ferrari,2020,16,54.705
-17,Nicholas  Latifi  LAT,Williams Mercedes,2020,16,54.796
-18,Jack  Aitken  AIT,Williams Mercedes,2020,16,54.892
-19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,16,54.963
-20,Pietro  Fittipaldi  FIT,Haas Ferrari,2020,16,55.426
-1,Max  Verstappen  VER,Red Bull Racing Honda,2020,17,95.24600000000001
-2,Valtteri  Bottas  BOT,Mercedes,2020,17,95.271
-3,Lewis  Hamilton  HAM,Mercedes,2020,17,95.332
-4,Lando  Norris  NOR,McLaren Renault,2020,17,95.497
-5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,17,95.571
-6,Carlos  Sainz  SAI,McLaren Renault,2020,17,95.815
-7,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,17,95.963
-8,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,17,96.04599999999999
-9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,17,96.24199999999999
-10,Esteban  Ocon  OCO,Renault,2020,17,96.35900000000001
-11,Daniel  Ricciardo  RIC,Renault,2020,17,96.406
-12,Charles  Leclerc  LEC,Ferrari,2020,17,96.065
-13,Sebastian  Vettel  VET,Ferrari,2020,17,96.631
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,17,98.24799999999999
-15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,17,97.555
-16,George  Russell  RUS,Williams Mercedes,2020,17,98.045
-17,Pietro  Fittipaldi  FIT,Haas Ferrari,2020,17,98.173
-18,Nicholas  Latifi  LAT,Williams Mercedes,2020,17,98.443
-19,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,17,
-20,Kevin  Magnussen  MAG,Haas Ferrari,2020,17,97.863
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,1,88.997
-2,Lewis  Hamilton  HAM,Mercedes,2021,1,89.385
-3,Valtteri  Bottas  BOT,Mercedes,2021,1,89.586
-4,Charles  Leclerc  LEC,Ferrari,2021,1,89.678
-5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,1,89.809
-6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,1,89.92699999999999
-7,Lando  Norris  NOR,McLaren Mercedes,2021,1,89.974
-8,Carlos  Sainz  SAI,Ferrari,2021,1,90.215
-9,Fernando  Alonso  ALO,Alpine Renault,2021,1,90.249
-10,Lance  Stroll  STR,Aston Martin Mercedes,2021,1,90.601
-11,Sergio  Perez  PER,Red Bull Racing Honda,2021,1,90.65899999999999
-12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,1,90.708
-13,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,1,91.203
-14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,1,91.238
-15,George  Russell  RUS,Williams Mercedes,2021,1,93.43
-16,Esteban  Ocon  OCO,Alpine Renault,2021,1,91.724
-17,Nicholas  Latifi  LAT,Williams Mercedes,2021,1,91.936
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,1,92.449
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,1,93.273
-20,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,1,92.056
-1,Lewis  Hamilton  HAM,Mercedes,2021,2,74.411
-2,Sergio  Perez  PER,Red Bull Racing Honda,2021,2,74.446
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,2,74.498
-4,Charles  Leclerc  LEC,Ferrari,2021,2,74.74
-5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,2,74.78999999999999
-6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,2,74.826
-7,Lando  Norris  NOR,McLaren Mercedes,2021,2,74.875
-8,Valtteri  Bottas  BOT,Mercedes,2021,2,74.898
-9,Esteban  Ocon  OCO,Alpine Renault,2021,2,75.21000000000001
-10,Lance  Stroll  STR,Aston Martin Mercedes,2021,2,
-11,Carlos  Sainz  SAI,Ferrari,2021,2,75.199
-12,George  Russell  RUS,Williams Mercedes,2021,2,75.261
-13,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,2,75.394
-14,Nicholas  Latifi  LAT,Williams Mercedes,2021,2,75.593
-15,Fernando  Alonso  ALO,Alpine Renault,2021,2,75.593
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,2,75.974
-17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,2,76.122
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,2,76.279
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,2,76.797
-20,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,2,
-1,Valtteri  Bottas  BOT,Mercedes,2021,3,78.348
-2,Lewis  Hamilton  HAM,Mercedes,2021,3,78.355
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,3,78.746
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,3,78.89
-5,Carlos  Sainz  SAI,Ferrari,2021,3,79.039
-6,Esteban  Ocon  OCO,Alpine Renault,2021,3,79.042
-7,Lando  Norris  NOR,McLaren Mercedes,2021,3,79.116
-8,Charles  Leclerc  LEC,Ferrari,2021,3,79.306
-9,Pierre  Gasly  GAS,AlphaTauri Honda,2021,3,79.475
-10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,3,79.65899999999999
-11,George  Russell  RUS,Williams Mercedes,2021,3,79.10900000000001
-12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,3,79.21600000000001
-13,Fernando  Alonso  ALO,Alpine Renault,2021,3,79.456
-14,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,3,79.463
-15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,3,79.812
-16,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,3,79.839
-17,Lance  Stroll  STR,Aston Martin Mercedes,2021,3,79.913
-18,Nicholas  Latifi  LAT,Williams Mercedes,2021,3,80.285
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,3,80.452
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,3,80.912
-1,Lewis  Hamilton  HAM,Mercedes,2021,4,76.741
-2,Max  Verstappen  VER,Red Bull Racing Honda,2021,4,76.777
-3,Valtteri  Bottas  BOT,Mercedes,2021,4,76.873
-4,Charles  Leclerc  LEC,Ferrari,2021,4,77.51
-5,Esteban  Ocon  OCO,Alpine Renault,2021,4,77.58
-6,Carlos  Sainz  SAI,Ferrari,2021,4,77.62
-7,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,4,77.622
-8,Sergio  Perez  PER,Red Bull Racing Honda,2021,4,77.701
-9,Lando  Norris  NOR,McLaren Mercedes,2021,4,78.01
-10,Fernando  Alonso  ALO,Alpine Renault,2021,4,78.14699999999999
-11,Lance  Stroll  STR,Aston Martin Mercedes,2021,4,77.974
-12,Pierre  Gasly  GAS,AlphaTauri Honda,2021,4,77.982
-13,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,4,78.07900000000001
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,4,78.356
-15,George  Russell  RUS,Williams Mercedes,2021,4,79.154
-16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,4,78.556
-17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,4,78.917
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,4,79.117
-19,Nicholas  Latifi  LAT,Williams Mercedes,2021,4,79.219
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,4,79.807
-1,Charles  Leclerc  LEC,Ferrari,2021,5,70.346
-2,Max  Verstappen  VER,Red Bull Racing Honda,2021,5,70.576
-3,Valtteri  Bottas  BOT,Mercedes,2021,5,70.601
-4,Carlos  Sainz  SAI,Ferrari,2021,5,70.611
-5,Lando  Norris  NOR,McLaren Mercedes,2021,5,70.62
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,5,70.9
-7,Lewis  Hamilton  HAM,Mercedes,2021,5,71.095
-8,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,5,71.419
-9,Sergio  Perez  PER,Red Bull Racing Honda,2021,5,71.57300000000001
-10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,5,71.779
-11,Esteban  Ocon  OCO,Alpine Renault,2021,5,71.486
-12,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,5,71.598
-13,Lance  Stroll  STR,Aston Martin Mercedes,2021,5,71.6
-14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,5,71.642
-15,George  Russell  RUS,Williams Mercedes,2021,5,71.83
-16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,5,72.096
-17,Fernando  Alonso  ALO,Alpine Renault,2021,5,72.205
-18,Nicholas  Latifi  LAT,Williams Mercedes,2021,5,72.366
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,5,72.958
-20,Mick  Schumacher  MSC,Haas Ferrari,2021,5,
-1,Charles  Leclerc  LEC,Ferrari,2021,6,101.218
-2,Lewis  Hamilton  HAM,Mercedes,2021,6,101.45
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,6,101.563
-4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,6,101.565
-5,Carlos  Sainz  SAI,Ferrari,2021,6,101.576
-6,Sergio  Perez  PER,Red Bull Racing Honda,2021,6,101.917
-7,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,6,102.211
-8,Fernando  Alonso  ALO,Alpine Renault,2021,6,102.327
-9,Lando  Norris  NOR,McLaren Mercedes,2021,6,101.747
-10,Valtteri  Bottas  BOT,Mercedes,2021,6,102.65899999999999
-11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,6,102.22399999999999
-12,Esteban  Ocon  OCO,Alpine Renault,2021,6,102.273
-13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,6,102.55799999999999
-14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,6,102.587
-15,George  Russell  RUS,Williams Mercedes,2021,6,102.75800000000001
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,6,103.128
-17,Mick  Schumacher  MSC,Haas Ferrari,2021,6,104.158
-18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,6,104.238
-19,Lance  Stroll  STR,Aston Martin Mercedes,2021,6,
-20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,6,
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,7,89.99
-2,Lewis  Hamilton  HAM,Mercedes,2021,7,90.248
-3,Valtteri  Bottas  BOT,Mercedes,2021,7,90.376
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,7,90.445
-5,Carlos  Sainz  SAI,Ferrari,2021,7,90.84
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,7,90.868
-7,Charles  Leclerc  LEC,Ferrari,2021,7,90.987
-8,Lando  Norris  NOR,McLaren Mercedes,2021,7,91.252
-9,Fernando  Alonso  ALO,Alpine Renault,2021,7,91.34
-10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,7,91.382
-11,Esteban  Ocon  OCO,Alpine Renault,2021,7,91.736
-12,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,7,91.767
-13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,7,91.813
-14,George  Russell  RUS,Williams Mercedes,2021,7,92.065
-15,Mick  Schumacher  MSC,Haas Ferrari,2021,7,
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,7,93.062
-17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,7,93.354
-18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,7,93.554
-19,Lance  Stroll  STR,Aston Martin Mercedes,2021,7,132.584
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,8,63.841
-2,Lewis  Hamilton  HAM,Mercedes,2021,8,64.06700000000001
-3,Lando  Norris  NOR,McLaren Mercedes,2021,8,64.12
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,8,64.168
-5,Valtteri  Bottas  BOT,Mercedes,2021,8,64.035
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,8,64.236
-7,Charles  Leclerc  LEC,Ferrari,2021,8,64.472
-8,Fernando  Alonso  ALO,Alpine Renault,2021,8,64.574
-9,Lance  Stroll  STR,Aston Martin Mercedes,2021,8,64.708
-10,George  Russell  RUS,Williams Mercedes,2021,8,64.671
-11,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,8,64.514
-12,Carlos  Sainz  SAI,Ferrari,2021,8,64.8
-13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,8,64.80799999999999
-14,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,8,64.875
-15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,8,64.913
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,8,65.175
-17,Esteban  Ocon  OCO,Alpine Renault,2021,8,65.217
-18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,8,65.429
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,8,66.041
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,8,66.19200000000001
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,9,63.72
-2,Lando  Norris  NOR,McLaren Mercedes,2021,9,63.768
-3,Sergio  Perez  PER,Red Bull Racing Honda,2021,9,63.99
-4,Lewis  Hamilton  HAM,Mercedes,2021,9,64.014
-5,Valtteri  Bottas  BOT,Mercedes,2021,9,64.049
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,9,64.107
-7,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,9,64.273
-8,George  Russell  RUS,Williams Mercedes,2021,9,64.591
-9,Lance  Stroll  STR,Aston Martin Mercedes,2021,9,64.618
-10,Carlos  Sainz  SAI,Ferrari,2021,9,64.559
-11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,9,64.57
-12,Charles  Leclerc  LEC,Ferrari,2021,9,64.6
-13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,9,64.719
-14,Fernando  Alonso  ALO,Alpine Renault,2021,9,64.856
-15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,9,65.083
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,9,65.009
-17,Esteban  Ocon  OCO,Alpine Renault,2021,9,65.051
-18,Nicholas  Latifi  LAT,Williams Mercedes,2021,9,65.195
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,9,65.42699999999999
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,9,65.951
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,10,
-2,Lewis  Hamilton  HAM,Mercedes,2021,10,
-3,Valtteri  Bottas  BOT,Mercedes,2021,10,
-4,Charles  Leclerc  LEC,Ferrari,2021,10,
-5,Lando  Norris  NOR,McLaren Mercedes,2021,10,
-6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,10,
-7,Fernando  Alonso  ALO,Alpine Renault,2021,10,
-8,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,10,
-9,Esteban  Ocon  OCO,Alpine Renault,2021,10,
-10,Carlos  Sainz  SAI,Ferrari,2021,10,
-11,Pierre  Gasly  GAS,AlphaTauri Honda,2021,10,
-12,George  Russell  RUS,Williams Mercedes,2021,10,
-13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,10,
-14,Lance  Stroll  STR,Aston Martin Mercedes,2021,10,
-15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,10,
-16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,10,
-17,Nicholas  Latifi  LAT,Williams Mercedes,2021,10,
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,10,
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,10,
-20,Sergio  Perez  PER,Red Bull Racing Honda,2021,10,
-1,Lewis  Hamilton  HAM,Mercedes,2021,11,75.419
-2,Valtteri  Bottas  BOT,Mercedes,2021,11,75.734
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,11,75.84
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,11,76.42099999999999
-5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,11,76.483
-6,Lando  Norris  NOR,McLaren Mercedes,2021,11,76.489
-7,Charles  Leclerc  LEC,Ferrari,2021,11,76.496
-8,Esteban  Ocon  OCO,Alpine Renault,2021,11,76.65299999999999
-9,Fernando  Alonso  ALO,Alpine Renault,2021,11,76.715
-10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,11,76.75
-11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,11,76.871
-12,Lance  Stroll  STR,Aston Martin Mercedes,2021,11,76.893
-13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,11,77.564
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,11,77.583
-15,Carlos  Sainz  SAI,Ferrari,2021,11,
-16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,11,77.919
-17,George  Russell  RUS,Williams Mercedes,2021,11,77.944
-18,Nicholas  Latifi  LAT,Williams Mercedes,2021,11,78.036
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,11,78.922
-20,Mick  Schumacher  MSC,Haas Ferrari,2021,11,
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,12,119.765
-2,George  Russell  RUS,Williams Mercedes,2021,12,120.086
-3,Lewis  Hamilton  HAM,Mercedes,2021,12,120.099
-4,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,12,120.864
-5,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,12,120.935
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,12,121.164
-7,Sergio  Perez  PER,Red Bull Racing Honda,2021,12,122.112
-8,Esteban  Ocon  OCO,Alpine Renault,2021,12,123.513
-9,Charles  Leclerc  LEC,Ferrari,2021,12,117.721
-10,Nicholas  Latifi  LAT,Williams Mercedes,2021,12,118.056
-11,Carlos  Sainz  SAI,Ferrari,2021,12,118.137
-12,Fernando  Alonso  ALO,Alpine Renault,2021,12,118.205
-13,Valtteri  Bottas  BOT,Mercedes,2021,12,122.502
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,12,122.306
-15,Lando  Norris  NOR,McLaren Mercedes,2021,12,
-16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,12,122.413
-17,Mick  Schumacher  MSC,Haas Ferrari,2021,12,123.973
-18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,12,124.939
-19,Lance  Stroll  STR,Aston Martin Mercedes,2021,12,118.231
-20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,12,124.452
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,13,68.885
-2,Lewis  Hamilton  HAM,Mercedes,2021,13,68.923
-3,Valtteri  Bottas  BOT,Mercedes,2021,13,69.222
-4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,13,69.478
-5,Charles  Leclerc  LEC,Ferrari,2021,13,69.527
-6,Carlos  Sainz  SAI,Ferrari,2021,13,69.537
-7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,13,69.59
-8,Esteban  Ocon  OCO,Alpine Renault,2021,13,69.93299999999999
-9,Fernando  Alonso  ALO,Alpine Renault,2021,13,69.956
-10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,13,70.166
-11,George  Russell  RUS,Williams Mercedes,2021,13,70.332
-12,Lance  Stroll  STR,Aston Martin Mercedes,2021,13,70.367
-13,Lando  Norris  NOR,McLaren Mercedes,2021,13,70.406
-14,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,13,71.314
-15,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,13,70.731
-16,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,2021,13,71.301
-17,Mick  Schumacher  MSC,Haas Ferrari,2021,13,71.387
-18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,13,71.875
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,14,
-2,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,14,
-3,Lando  Norris  NOR,McLaren Mercedes,2021,14,
-4,Lewis  Hamilton  HAM,Mercedes,2021,14,
-5,Charles  Leclerc  LEC,Ferrari,2021,14,
-6,Carlos  Sainz  SAI,Ferrari,2021,14,
-7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,14,
-8,Sergio  Perez  PER,Red Bull Racing Honda,2021,14,
-9,Lance  Stroll  STR,Aston Martin Mercedes,2021,14,
-10,Fernando  Alonso  ALO,Alpine Renault,2021,14,
-11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,14,
-12,Esteban  Ocon  OCO,Alpine Renault,2021,14,
-13,Nicholas  Latifi  LAT,Williams Mercedes,2021,14,
-14,George  Russell  RUS,Williams Mercedes,2021,14,
-15,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,14,
-16,Nikita  Mazepin  MAZ,Haas Ferrari,2021,14,
-17,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,2021,14,
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,14,
-19,Valtteri  Bottas  BOT,Mercedes,2021,14,
-1,Lando  Norris  NOR,McLaren Mercedes,2021,15,101.993
-2,Carlos  Sainz  SAI,Ferrari,2021,15,102.50999999999999
-3,George  Russell  RUS,Williams Mercedes,2021,15,102.983
-4,Lewis  Hamilton  HAM,Mercedes,2021,15,104.05
-5,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,15,104.156
-6,Fernando  Alonso  ALO,Alpine Renault,2021,15,104.20400000000001
-7,Lance  Stroll  STR,Aston Martin Mercedes,2021,15,104.956
-8,Sergio  Perez  PER,Red Bull Racing Honda,2021,15,105.337
-9,Esteban  Ocon  OCO,Alpine Renault,2021,15,105.86500000000001
-10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,15,106.57300000000001
-11,Pierre  Gasly  GAS,AlphaTauri Honda,2021,15,106.64099999999999
-12,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,15,106.751
-13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,15,109.586
-14,Mick  Schumacher  MSC,Haas Ferrari,2021,15,109.83
-15,Nikita  Mazepin  MAZ,Haas Ferrari,2021,15,113.76400000000001
-16,Valtteri  Bottas  BOT,Mercedes,2021,15,104.71000000000001
-17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,15,111.023
-18,Nicholas  Latifi  LAT,Williams Mercedes,2021,15,
-19,Charles  Leclerc  LEC,Ferrari,2021,15,
-20,Max  Verstappen  VER,Red Bull Racing Honda,2021,15,
-1,Valtteri  Bottas  BOT,Mercedes,2021,16,82.998
-2,Max  Verstappen  VER,Red Bull Racing Honda,2021,16,83.196
-3,Charles  Leclerc  LEC,Ferrari,2021,16,83.265
-4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,16,83.326
-5,Fernando  Alonso  ALO,Alpine Renault,2021,16,83.477
-6,Sergio  Perez  PER,Red Bull Racing Honda,2021,16,83.706
-7,Lando  Norris  NOR,McLaren Mercedes,2021,16,83.95400000000001
-8,Lance  Stroll  STR,Aston Martin Mercedes,2021,16,84.305
-9,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,16,84.368
-10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,16,84.795
-11,Lewis  Hamilton  HAM,Mercedes,2021,16,82.868
-12,Esteban  Ocon  OCO,Alpine Renault,2021,16,84.842
-13,George  Russell  RUS,Williams Mercedes,2021,16,85.007
-14,Mick  Schumacher  MSC,Haas Ferrari,2021,16,85.2
-15,Nicholas  Latifi  LAT,Williams Mercedes,2021,16,86.086
-16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,16,86.43
-17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,16,87.525
-18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,16,88.449
-19,Carlos  Sainz  SAI,Ferrari,2021,16,
-20,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,16,85.881
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,17,92.91
-2,Lewis  Hamilton  HAM,Mercedes,2021,17,93.119
-3,Sergio  Perez  PER,Red Bull Racing Honda,2021,17,93.134
-4,Charles  Leclerc  LEC,Ferrari,2021,17,93.606
-5,Carlos  Sainz  SAI,Ferrari,2021,17,93.792
-6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,17,93.80799999999999
-7,Lando  Norris  NOR,McLaren Mercedes,2021,17,93.887
-8,Pierre  Gasly  GAS,AlphaTauri Honda,2021,17,94.118
-9,Valtteri  Bottas  BOT,Mercedes,2021,17,93.475
-10,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,17,94.918
-11,Esteban  Ocon  OCO,Alpine Renault,2021,17,95.37700000000001
-12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,17,95.794
-13,Lance  Stroll  STR,Aston Martin Mercedes,2021,17,95.983
-14,Nicholas  Latifi  LAT,Williams Mercedes,2021,17,95.995
-15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,17,96.311
-16,Mick  Schumacher  MSC,Haas Ferrari,2021,17,96.499
-17,Nikita  Mazepin  MAZ,Haas Ferrari,2021,17,96.79599999999999
-18,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,17,95.5
-19,Fernando  Alonso  ALO,Alpine Renault,2021,17,104.549
-20,George  Russell  RUS,Williams Mercedes,2021,17,
-1,Valtteri  Bottas  BOT,Mercedes,2021,18,75.875
-2,Lewis  Hamilton  HAM,Mercedes,2021,18,76.02
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,18,76.225
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,18,76.342
-5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,18,76.456
-6,Carlos  Sainz  SAI,Ferrari,2021,18,76.761
-7,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,18,76.763
-8,Charles  Leclerc  LEC,Ferrari,2021,18,76.837
-9,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,18,77.746
-10,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,18,77.958
-11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,18,78.28999999999999
-12,Fernando  Alonso  ALO,Alpine Renault,2021,18,78.452
-13,Nicholas  Latifi  LAT,Williams Mercedes,2021,18,78.756
-14,Mick  Schumacher  MSC,Haas Ferrari,2021,18,78.858
-15,Nikita  Mazepin  MAZ,Haas Ferrari,2021,18,79.303
-16,George  Russell  RUS,Williams Mercedes,2021,18,78.172
-17,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,18,77.158
-18,Lando  Norris  NOR,McLaren Mercedes,2021,18,96.83
-19,Esteban  Ocon  OCO,Alpine Renault,2021,18,78.405
-20,Lance  Stroll  STR,Aston Martin Mercedes,2021,18,80.873
-1,Valtteri  Bottas  BOT,Mercedes,2021,19,
-2,Max  Verstappen  VER,Red Bull Racing Honda,2021,19,
-3,Carlos  Sainz  SAI,Ferrari,2021,19,
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,19,
-5,Lando  Norris  NOR,McLaren Mercedes,2021,19,
-6,Charles  Leclerc  LEC,Ferrari,2021,19,
-7,Pierre  Gasly  GAS,AlphaTauri Honda,2021,19,
-8,Esteban  Ocon  OCO,Alpine Renault,2021,19,
-9,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,19,
-10,Lewis  Hamilton  HAM,Mercedes,2021,19,
-11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,19,
-12,Fernando  Alonso  ALO,Alpine Renault,2021,19,
-13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,19,
-14,Lance  Stroll  STR,Aston Martin Mercedes,2021,19,
-15,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,19,
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,19,
-17,George  Russell  RUS,Williams Mercedes,2021,19,
-18,Mick  Schumacher  MSC,Haas Ferrari,2021,19,
-19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,19,
-20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,19,
-1,Lewis  Hamilton  HAM,Mercedes,2021,20,80.827
-2,Pierre  Gasly  GAS,AlphaTauri Honda,2021,20,81.64
-3,Fernando  Alonso  ALO,Alpine Renault,2021,20,81.67
-4,Lando  Norris  NOR,McLaren Mercedes,2021,20,81.731
-5,Carlos  Sainz  SAI,Ferrari,2021,20,81.84
-6,Valtteri  Bottas  BOT,Mercedes,2021,20,81.47800000000001
-7,Max  Verstappen  VER,Red Bull Racing Honda,2021,20,81.424
-8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,20,81.881
-9,Esteban  Ocon  OCO,Alpine Renault,2021,20,82.02799999999999
-10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,20,82.785
-11,Sergio  Perez  PER,Red Bull Racing Honda,2021,20,82.346
-12,Lance  Stroll  STR,Aston Martin Mercedes,2021,20,82.46000000000001
-13,Charles  Leclerc  LEC,Ferrari,2021,20,82.463
-14,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,20,82.59700000000001
-15,George  Russell  RUS,Williams Mercedes,2021,20,82.756
-16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,20,83.156
-17,Nicholas  Latifi  LAT,Williams Mercedes,2021,20,83.213
-18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,20,83.262
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,20,83.407
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,20,85.85900000000001
-1,Lewis  Hamilton  HAM,Mercedes,2021,21,87.511
-2,Valtteri  Bottas  BOT,Mercedes,2021,21,87.622
-3,Max  Verstappen  VER,Red Bull Racing Honda,2021,21,87.65299999999999
-4,Charles  Leclerc  LEC,Ferrari,2021,21,88.054
-5,Sergio  Perez  PER,Red Bull Racing Honda,2021,21,88.123
-6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,21,88.125
-7,Lando  Norris  NOR,McLaren Mercedes,2021,21,88.18
-8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,21,88.44200000000001
-9,Esteban  Ocon  OCO,Alpine Renault,2021,21,88.64699999999999
-10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,21,88.754
-11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,21,88.668
-12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,21,88.885
-13,Fernando  Alonso  ALO,Alpine Renault,2021,21,88.92
-14,George  Russell  RUS,Williams Mercedes,2021,21,89.054
-15,Carlos  Sainz  SAI,Ferrari,2021,21,113.652
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,21,89.17699999999999
-17,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,21,89.19800000000001
-18,Lance  Stroll  STR,Aston Martin Mercedes,2021,21,89.368
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,21,89.464
-20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,21,90.473
-1,Max  Verstappen  VER,Red Bull Racing Honda,2021,22,82.10900000000001
-2,Lewis  Hamilton  HAM,Mercedes,2021,22,82.48
-3,Lando  Norris  NOR,McLaren Mercedes,2021,22,82.931
-4,Sergio  Perez  PER,Red Bull Racing Honda,2021,22,82.947
-5,Carlos  Sainz  SAI,Ferrari,2021,22,82.992
-6,Valtteri  Bottas  BOT,Mercedes,2021,22,83.036
-7,Charles  Leclerc  LEC,Ferrari,2021,22,83.122
-8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,22,83.22
-9,Esteban  Ocon  OCO,Alpine Renault,2021,22,83.389
-10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,22,83.40899999999999
-11,Fernando  Alonso  ALO,Alpine Renault,2021,22,83.46000000000001
-12,Pierre  Gasly  GAS,AlphaTauri Honda,2021,22,84.043
-13,Lance  Stroll  STR,Aston Martin Mercedes,2021,22,84.066
-14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,22,84.251
-15,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,22,84.305
-16,Nicholas  Latifi  LAT,Williams Mercedes,2021,22,84.338
-17,George  Russell  RUS,Williams Mercedes,2021,22,84.423
-18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,22,84.779
-19,Mick  Schumacher  MSC,Haas Ferrari,2021,22,84.906
+grid,driver,constructor,season,round,qual_time,q_delta
+1,Valtteri  Bottas  BOT,Mercedes,2020,1,62.939,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2020,1,63.477,0.5379999999999967
+3,Lando  Norris  NOR,McLaren Renault,2020,1,63.626,0.6869999999999976
+4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,1,63.868,0.929000000000002
+5,Lewis  Hamilton  HAM,Mercedes,2020,1,62.951,0.0120000000000004
+6,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,1,63.868,0.929000000000002
+7,Charles  Leclerc  LEC,Ferrari,2020,1,63.923,0.9840000000000018
+8,Carlos  Sainz  SAI,McLaren Renault,2020,1,63.971,1.0319999999999965
+9,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,1,64.029,1.0899999999999963
+10,Daniel  Ricciardo  RIC,Renault,2020,1,64.239,1.3000000000000045
+11,Sebastian  Vettel  VET,Ferrari,2020,1,64.206,1.267000000000003
+12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,1,64.305,1.3660000000000068
+13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,1,64.431,1.491999999999997
+14,Esteban  Ocon  OCO,Renault,2020,1,64.643,1.7040000000000006
+15,Romain  Grosjean  GRO,Haas Ferrari,2020,1,64.691,1.7520000000000024
+16,Kevin  Magnussen  MAG,Haas Ferrari,2020,1,65.164,2.2250000000000014
+17,George  Russell  RUS,Williams Mercedes,2020,1,65.167,2.228000000000001
+18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,1,65.175,2.235999999999997
+19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,1,65.224,2.285000000000004
+20,Nicholas  Latifi  LAT,Williams Mercedes,2020,1,65.757,2.818000000000005
+1,Lewis  Hamilton  HAM,Mercedes,2020,2,79.273,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2020,2,80.489,1.2160000000000082
+3,Carlos  Sainz  SAI,McLaren Renault,2020,2,80.67099999999999,1.397999999999996
+4,Valtteri  Bottas  BOT,Mercedes,2020,2,80.701,1.4279999999999973
+5,Esteban  Ocon  OCO,Renault,2020,2,80.922,1.649000000000001
+6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,2,81.011,1.7379999999999995
+7,Pierre  Gasly  GAS,AlphaTauri Honda,2020,2,81.02799999999999,1.7549999999999957
+8,Daniel  Ricciardo  RIC,Renault,2020,2,81.19200000000001,1.9190000000000111
+9,Lando  Norris  NOR,McLaren Renault,2020,2,80.925,1.652000000000001
+10,Sebastian  Vettel  VET,Ferrari,2020,2,81.651,2.378
+11,George  Russell  RUS,Williams Mercedes,2020,2,79.636,0.3629999999999995
+12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,2,79.645,0.3719999999999999
+13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,2,79.717,0.4440000000000026
+14,Charles  Leclerc  LEC,Ferrari,2020,2,79.628,0.355000000000004
+15,Kevin  Magnussen  MAG,Haas Ferrari,2020,2,80.211,0.9380000000000024
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,2,81.372,2.099000000000004
+17,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,2,81.607,2.334000000000003
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,2,81.759,2.486000000000004
+19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,2,81.831,2.558000000000007
+1,Lewis  Hamilton  HAM,Mercedes,2020,3,73.447,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,3,73.554,0.1069999999999993
+3,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,3,74.377,0.9299999999999926
+4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,3,74.545,1.097999999999999
+5,Sebastian  Vettel  VET,Ferrari,2020,3,74.774,1.3269999999999982
+6,Charles  Leclerc  LEC,Ferrari,2020,3,74.81700000000001,1.3700000000000043
+7,Max  Verstappen  VER,Red Bull Racing Honda,2020,3,74.849,1.402000000000001
+8,Lando  Norris  NOR,McLaren Renault,2020,3,74.966,1.5189999999999912
+9,Carlos  Sainz  SAI,McLaren Renault,2020,3,75.027,1.5799999999999983
+10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,3,,0.0
+11,Daniel  Ricciardo  RIC,Renault,2020,3,75.661,0.0
+12,George  Russell  RUS,Williams Mercedes,2020,3,75.69800000000001,1.6170000000000044
+13,Alexander  Albon  ALB,Red Bull Racing Honda,2020,3,75.715,1.6340000000000003
+14,Esteban  Ocon  OCO,Renault,2020,3,75.742,1.6610000000000014
+15,Nicholas  Latifi  LAT,Williams Mercedes,2020,3,76.544,2.462999999999994
+16,Kevin  Magnussen  MAG,Haas Ferrari,2020,3,76.152,2.070999999999998
+17,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,3,76.20400000000001,2.1230000000000047
+18,Romain  Grosjean  GRO,Haas Ferrari,2020,3,76.407,2.3259999999999934
+19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,3,76.506,2.424999999999997
+20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,3,76.614,2.5330000000000013
+1,Lewis  Hamilton  HAM,Mercedes,2020,4,84.303,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,4,84.616,0.3130000000000024
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,4,85.325,1.0220000000000056
+4,Charles  Leclerc  LEC,Ferrari,2020,4,85.42699999999999,1.1239999999999952
+5,Lando  Norris  NOR,McLaren Renault,2020,4,85.782,1.4789999999999992
+6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,4,85.839,1.5360000000000014
+7,Carlos  Sainz  SAI,McLaren Renault,2020,4,85.965,1.662000000000006
+8,Daniel  Ricciardo  RIC,Renault,2020,4,86.009,1.706000000000003
+9,Esteban  Ocon  OCO,Renault,2020,4,86.209,1.906000000000006
+10,Sebastian  Vettel  VET,Ferrari,2020,4,86.339,2.0360000000000014
+11,Pierre  Gasly  GAS,AlphaTauri Honda,2020,4,86.501,2.1980000000000075
+12,Alexander  Albon  ALB,Red Bull Racing Honda,2020,4,86.545,2.2420000000000044
+13,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,4,86.566,2.263000000000005
+14,Kevin  Magnussen  MAG,Haas Ferrari,2020,4,87.158,2.855000000000004
+15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,4,87.164,2.861000000000004
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,4,87.366,3.0630000000000024
+17,Romain  Grosjean  GRO,Haas Ferrari,2020,4,87.643,3.3400000000000034
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,4,87.705,3.402000000000001
+19,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,4,86.744,2.4410000000000025
+20,George  Russell  RUS,Williams Mercedes,2020,4,87.092,2.789000000000001
+1,Valtteri  Bottas  BOT,Mercedes,2020,5,85.154,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2020,5,85.217,0.0630000000000023
+3,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,5,86.082,0.9279999999999972
+4,Max  Verstappen  VER,Red Bull Racing Honda,2020,5,86.176,1.0220000000000056
+5,Daniel  Ricciardo  RIC,Renault,2020,5,86.297,1.143000000000001
+6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,5,86.428,1.274000000000001
+7,Pierre  Gasly  GAS,AlphaTauri Honda,2020,5,86.53399999999999,1.3799999999999957
+8,Charles  Leclerc  LEC,Ferrari,2020,5,86.614,1.460000000000008
+9,Alexander  Albon  ALB,Red Bull Racing Honda,2020,5,86.669,1.5150000000000006
+10,Lando  Norris  NOR,McLaren Renault,2020,5,86.77799999999999,1.6239999999999952
+11,Sebastian  Vettel  VET,Ferrari,2020,5,87.078,1.9240000000000064
+12,Carlos  Sainz  SAI,McLaren Renault,2020,5,87.083,1.929000000000002
+13,Romain  Grosjean  GRO,Haas Ferrari,2020,5,87.254,2.1000000000000085
+14,Esteban  Ocon  OCO,Renault,2020,5,87.011,1.8569999999999995
+15,George  Russell  RUS,Williams Mercedes,2020,5,87.455,2.301000000000002
+16,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,5,87.882,2.7280000000000086
+17,Kevin  Magnussen  MAG,Haas Ferrari,2020,5,88.236,3.082000000000008
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,5,88.43,3.2760000000000105
+19,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,5,88.43299999999999,3.2789999999999964
+20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,5,88.493,3.338999999999998
+1,Lewis  Hamilton  HAM,Mercedes,2020,6,75.584,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,6,75.643,0.0589999999999975
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,6,76.292,0.7079999999999984
+4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,6,76.482,0.8979999999999961
+5,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,6,76.589,1.0049999999999957
+6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,6,77.029,1.4449999999999932
+7,Carlos  Sainz  SAI,McLaren Renault,2020,6,77.044,1.4599999999999935
+8,Lando  Norris  NOR,McLaren Renault,2020,6,77.084,1.5
+9,Charles  Leclerc  LEC,Ferrari,2020,6,77.087,1.503
+10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,6,77.136,1.5519999999999925
+11,Sebastian  Vettel  VET,Ferrari,2020,6,77.168,1.5840000000000032
+12,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,6,77.19200000000001,1.608000000000004
+13,Daniel  Ricciardo  RIC,Renault,2020,6,77.19800000000001,1.6140000000000043
+14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,6,77.386,1.8019999999999925
+15,Esteban  Ocon  OCO,Renault,2020,6,77.56700000000001,1.983000000000004
+16,Kevin  Magnussen  MAG,Haas Ferrari,2020,6,77.908,2.323999999999998
+17,Romain  Grosjean  GRO,Haas Ferrari,2020,6,78.089,2.5049999999999955
+18,George  Russell  RUS,Williams Mercedes,2020,6,78.099,2.515000000000001
+19,Nicholas  Latifi  LAT,Williams Mercedes,2020,6,78.532,2.9479999999999933
+20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,6,78.697,3.1129999999999995
+1,Lewis  Hamilton  HAM,Mercedes,2020,7,101.252,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,7,101.763,0.5110000000000099
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,7,101.778,0.5260000000000105
+4,Daniel  Ricciardo  RIC,Renault,2020,7,102.061,0.8090000000000117
+5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,7,102.264,1.0120000000000005
+6,Esteban  Ocon  OCO,Renault,2020,7,102.396,1.1440000000000057
+7,Carlos  Sainz  SAI,McLaren Renault,2020,7,102.438,1.186000000000007
+8,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,7,102.532,1.2800000000000011
+9,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,7,102.603,1.350999999999999
+10,Lando  Norris  NOR,McLaren Renault,2020,7,102.657,1.4050000000000011
+11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,7,102.73,1.4780000000000086
+12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,7,102.745,1.4930000000000092
+13,Charles  Leclerc  LEC,Ferrari,2020,7,102.996,1.7439999999999998
+14,Sebastian  Vettel  VET,Ferrari,2020,7,103.261,2.0090000000000003
+15,George  Russell  RUS,Williams Mercedes,2020,7,103.468,2.216000000000008
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,7,103.743,2.491
+17,Romain  Grosjean  GRO,Haas Ferrari,2020,7,103.838,2.5859999999999985
+18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,7,103.95,2.6980000000000075
+19,Nicholas  Latifi  LAT,Williams Mercedes,2020,7,104.138,2.88600000000001
+20,Kevin  Magnussen  MAG,Haas Ferrari,2020,7,104.314,3.0619999999999976
+1,Lewis  Hamilton  HAM,Mercedes,2020,8,78.887,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,8,78.956,0.0690000000000026
+3,Carlos  Sainz  SAI,McLaren Renault,2020,8,79.695,0.8079999999999927
+4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,8,79.72,0.8329999999999984
+5,Max  Verstappen  VER,Red Bull Racing Honda,2020,8,79.795,0.9080000000000013
+6,Lando  Norris  NOR,McLaren Renault,2020,8,79.82,0.9329999999999928
+7,Daniel  Ricciardo  RIC,Renault,2020,8,79.864,0.977000000000004
+8,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,8,80.049,1.162000000000006
+9,Alexander  Albon  ALB,Red Bull Racing Honda,2020,8,80.09,1.203000000000003
+10,Pierre  Gasly  GAS,AlphaTauri Honda,2020,8,80.17699999999999,1.289999999999992
+11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,8,80.169,1.2819999999999965
+12,Esteban  Ocon  OCO,Renault,2020,8,80.23400000000001,1.3470000000000084
+13,Charles  Leclerc  LEC,Ferrari,2020,8,80.273,1.3859999999999957
+14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,8,80.926,2.039000000000001
+15,Kevin  Magnussen  MAG,Haas Ferrari,2020,8,81.57300000000001,2.686000000000007
+16,Romain  Grosjean  GRO,Haas Ferrari,2020,8,81.139,2.251999999999996
+17,Sebastian  Vettel  VET,Ferrari,2020,8,81.151,2.263999999999996
+18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,8,81.206,2.3190000000000026
+19,George  Russell  RUS,Williams Mercedes,2020,8,81.587,2.700000000000003
+20,Nicholas  Latifi  LAT,Williams Mercedes,2020,8,81.717,2.8299999999999983
+1,Lewis  Hamilton  HAM,Mercedes,2020,9,75.144,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,9,75.203,0.0589999999999975
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,9,75.509,0.3649999999999949
+4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,9,75.95400000000001,0.8100000000000023
+5,Charles  Leclerc  LEC,Ferrari,2020,9,76.27,1.1259999999999906
+6,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,9,76.356,1.211999999999989
+7,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,9,76.311,1.1670000000000016
+8,Daniel  Ricciardo  RIC,Renault,2020,9,76.543,1.399000000000001
+9,Carlos  Sainz  SAI,McLaren Renault,2020,9,77.87,2.725999999999999
+10,Esteban  Ocon  OCO,Renault,2020,9,,0.0
+11,Lando  Norris  NOR,McLaren Renault,2020,9,76.64,0.0
+12,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,9,76.854,2.9399999999999977
+13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,9,76.854,2.9399999999999977
+14,Sebastian  Vettel  VET,Ferrari,2020,9,76.858,2.9440000000000026
+15,Romain  Grosjean  GRO,Haas Ferrari,2020,9,77.254,3.3400000000000034
+16,Pierre  Gasly  GAS,AlphaTauri Honda,2020,9,77.125,3.2109999999999985
+17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,9,77.22,3.3059999999999974
+18,George  Russell  RUS,Williams Mercedes,2020,9,77.232,3.317999999999998
+19,Nicholas  Latifi  LAT,Williams Mercedes,2020,9,77.32,3.405999999999992
+20,Kevin  Magnussen  MAG,Haas Ferrari,2020,9,77.348,3.433999999999997
+1,Lewis  Hamilton  HAM,Mercedes,2020,10,91.304,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2020,10,91.867,0.5630000000000024
+3,Valtteri  Bottas  BOT,Mercedes,2020,10,91.956,0.652000000000001
+4,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,10,92.317,1.012999999999991
+5,Daniel  Ricciardo  RIC,Renault,2020,10,92.364,1.0600000000000025
+6,Carlos  Sainz  SAI,McLaren Renault,2020,10,92.55,1.2459999999999951
+7,Esteban  Ocon  OCO,Renault,2020,10,92.624,1.3199999999999932
+8,Lando  Norris  NOR,McLaren Renault,2020,10,92.847,1.5429999999999922
+9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,10,93.0,1.695999999999998
+10,Charles  Leclerc  LEC,Ferrari,2020,10,93.239,1.9350000000000025
+11,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,10,93.249,1.9449999999999927
+12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,10,93.364,2.0600000000000023
+13,George  Russell  RUS,Williams Mercedes,2020,10,93.583,2.2789999999999964
+14,Sebastian  Vettel  VET,Ferrari,2020,10,93.609,2.3049999999999926
+15,Alexander  Albon  ALB,Red Bull Racing Honda,2020,10,93.008,1.7039999999999935
+16,Romain  Grosjean  GRO,Haas Ferrari,2020,10,94.592,3.2879999999999967
+17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,10,94.594,3.289999999999992
+18,Kevin  Magnussen  MAG,Haas Ferrari,2020,10,94.681,3.376999999999996
+19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,10,95.267,3.962999999999994
+20,Nicholas  Latifi  LAT,Williams Mercedes,2020,10,95.066,3.762000000000001
+1,Valtteri  Bottas  BOT,Mercedes,2020,11,85.269,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2020,11,85.525,0.2560000000000002
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,11,85.562,0.2929999999999921
+4,Charles  Leclerc  LEC,Ferrari,2020,11,86.035,0.7659999999999911
+5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,11,86.047,0.7779999999999916
+6,Daniel  Ricciardo  RIC,Renault,2020,11,86.223,0.9539999999999936
+7,Esteban  Ocon  OCO,Renault,2020,11,86.242,0.972999999999999
+8,Lando  Norris  NOR,McLaren Renault,2020,11,86.458,1.188999999999993
+9,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,11,86.70400000000001,1.4350000000000025
+10,Carlos  Sainz  SAI,McLaren Renault,2020,11,86.709,1.4399999999999975
+11,Sebastian  Vettel  VET,Ferrari,2020,11,86.738,1.468999999999994
+12,Pierre  Gasly  GAS,AlphaTauri Honda,2020,11,86.776,1.5069999999999908
+13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,11,86.848,1.5789999999999935
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,11,86.936,1.6670000000000016
+15,Kevin  Magnussen  MAG,Haas Ferrari,2020,11,87.125,1.8559999999999943
+16,Romain  Grosjean  GRO,Haas Ferrari,2020,11,87.55199999999999,2.282999999999987
+17,George  Russell  RUS,Williams Mercedes,2020,11,87.564,2.2949999999999875
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,11,87.812,2.542999999999992
+19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,11,87.81700000000001,2.548000000000002
+20,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,2020,11,88.021,2.751999999999996
+1,Lewis  Hamilton  HAM,Mercedes,2020,12,76.652,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,12,76.754,0.1020000000000038
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,12,76.904,0.2519999999999953
+4,Charles  Leclerc  LEC,Ferrari,2020,12,77.09,0.4380000000000024
+5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,12,77.223,0.570999999999998
+6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,12,77.437,0.7849999999999966
+7,Carlos  Sainz  SAI,McLaren Renault,2020,12,77.52,0.867999999999995
+8,Lando  Norris  NOR,McLaren Renault,2020,12,77.525,0.8730000000000047
+9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,12,77.803,1.1509999999999962
+10,Daniel  Ricciardo  RIC,Renault,2020,12,,0.0
+11,Esteban  Ocon  OCO,Renault,2020,12,77.614,0.0
+12,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,12,77.626,1.1629999999999967
+13,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,12,77.72800000000001,1.2650000000000006
+14,George  Russell  RUS,Williams Mercedes,2020,12,77.788,1.3249999999999886
+15,Sebastian  Vettel  VET,Ferrari,2020,12,77.919,1.4559999999999889
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,12,78.201,1.7379999999999851
+17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,12,78.32300000000001,1.8599999999999997
+18,Romain  Grosjean  GRO,Haas Ferrari,2020,12,78.364,1.900999999999996
+19,Kevin  Magnussen  MAG,Haas Ferrari,2020,12,78.508,2.0449999999999875
+20,Nicholas  Latifi  LAT,Williams Mercedes,2020,12,78.777,2.313999999999993
+1,Valtteri  Bottas  BOT,Mercedes,2020,13,73.609,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2020,13,73.706,0.0970000000000084
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,13,74.176,0.5670000000000073
+4,Pierre  Gasly  GAS,AlphaTauri Honda,2020,13,74.502,0.8930000000000007
+5,Daniel  Ricciardo  RIC,Renault,2020,13,74.52,0.9110000000000014
+6,Alexander  Albon  ALB,Red Bull Racing Honda,2020,13,74.572,0.963000000000008
+7,Charles  Leclerc  LEC,Ferrari,2020,13,74.616,1.007000000000005
+8,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,13,74.696,1.0870000000000033
+9,Lando  Norris  NOR,McLaren Renault,2020,13,74.814,1.2049999999999983
+10,Carlos  Sainz  SAI,McLaren Renault,2020,13,74.911,1.3020000000000067
+11,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,13,75.061,1.4520000000000124
+12,Esteban  Ocon  OCO,Renault,2020,13,75.201,1.5919999999999987
+13,George  Russell  RUS,Williams Mercedes,2020,13,75.32300000000001,1.7140000000000128
+14,Sebastian  Vettel  VET,Ferrari,2020,13,75.385,1.7760000000000105
+15,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,13,75.494,1.885000000000005
+16,Romain  Grosjean  GRO,Haas Ferrari,2020,13,75.918,2.309000000000012
+17,Kevin  Magnussen  MAG,Haas Ferrari,2020,13,75.939,2.3299999999999983
+18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,13,75.953,2.3440000000000083
+19,Nicholas  Latifi  LAT,Williams Mercedes,2020,13,75.987,2.378
+20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,13,76.208,2.599000000000004
+1,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,14,107.765,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2020,14,108.055,0.2900000000000062
+3,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,14,109.321,1.5559999999999974
+4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,14,110.448,2.6829999999999927
+5,Daniel  Ricciardo  RIC,Renault,2020,14,111.595,3.8299999999999983
+6,Lewis  Hamilton  HAM,Mercedes,2020,14,112.56,4.795000000000002
+7,Esteban  Ocon  OCO,Renault,2020,14,112.622,4.856999999999999
+8,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,14,112.745,4.980000000000004
+9,Valtteri  Bottas  BOT,Mercedes,2020,14,113.258,5.492999999999995
+10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,14,117.226,9.461
+11,Sebastian  Vettel  VET,Ferrari,2020,14,115.169,7.403999999999996
+12,Charles  Leclerc  LEC,Ferrari,2020,14,116.696,8.930999999999997
+13,Kevin  Magnussen  MAG,Haas Ferrari,2020,14,128.007,20.242000000000004
+14,Lando  Norris  NOR,McLaren Renault,2020,14,114.945,7.179999999999993
+15,Carlos  Sainz  SAI,McLaren Renault,2020,14,115.41,7.644999999999996
+16,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,14,129.07,21.304999999999996
+17,Romain  Grosjean  GRO,Haas Ferrari,2020,14,132.909,25.14399999999999
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,14,141.611,33.84599999999999
+19,Pierre  Gasly  GAS,AlphaTauri Honda,2020,14,118.556,10.790999999999997
+20,George  Russell  RUS,Williams Mercedes,2020,14,130.017,22.251999999999995
+1,Lewis  Hamilton  HAM,Mercedes,2020,15,87.264,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,15,87.553,0.2890000000000015
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,15,87.678,0.4140000000000015
+4,Alexander  Albon  ALB,Red Bull Racing Honda,2020,15,88.274,1.0100000000000051
+5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,15,88.322,1.058000000000007
+6,Daniel  Ricciardo  RIC,Renault,2020,15,88.417,1.1530000000000058
+7,Esteban  Ocon  OCO,Renault,2020,15,88.419,1.1550000000000011
+8,Pierre  Gasly  GAS,AlphaTauri Honda,2020,15,88.44800000000001,1.1840000000000117
+9,Lando  Norris  NOR,McLaren Renault,2020,15,88.542,1.2780000000000058
+10,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,15,88.618,1.3539999999999992
+11,Sebastian  Vettel  VET,Ferrari,2020,15,89.149,1.885000000000005
+12,Charles  Leclerc  LEC,Ferrari,2020,15,89.16499999999999,1.900999999999996
+13,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,15,89.557,2.2930000000000064
+14,George  Russell  RUS,Williams Mercedes,2020,15,91.218,3.954000000000008
+15,Carlos  Sainz  SAI,McLaren Renault,2020,15,,0.0
+16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,15,89.491,0.0
+17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,15,89.81,4.27300000000001
+18,Kevin  Magnussen  MAG,Haas Ferrari,2020,15,90.111,4.574000000000012
+19,Romain  Grosjean  GRO,Haas Ferrari,2020,15,90.138,4.601000000000013
+20,Nicholas  Latifi  LAT,Williams Mercedes,2020,15,90.182,4.64500000000001
+1,Valtteri  Bottas  BOT,Mercedes,2020,16,53.377,0.0
+2,George  Russell  RUS,Mercedes,2020,16,53.403,0.0259999999999962
+3,Max  Verstappen  VER,Red Bull Racing Honda,2020,16,53.433,0.0559999999999973
+4,Charles  Leclerc  LEC,Ferrari,2020,16,53.613,0.2359999999999971
+5,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,16,53.79,0.4129999999999967
+6,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,16,53.906,0.5289999999999964
+7,Daniel  Ricciardo  RIC,Renault,2020,16,53.957,0.5799999999999983
+8,Carlos  Sainz  SAI,McLaren Renault,2020,16,54.01,0.6329999999999956
+9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,16,54.154,0.777000000000001
+10,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,16,54.2,0.8230000000000004
+11,Esteban  Ocon  OCO,Renault,2020,16,53.995,0.617999999999995
+12,Alexander  Albon  ALB,Red Bull Racing Honda,2020,16,54.026,0.6490000000000009
+13,Sebastian  Vettel  VET,Ferrari,2020,16,54.175,0.7979999999999947
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,16,54.377,1.0
+15,Lando  Norris  NOR,McLaren Renault,2020,16,54.693,1.3159999999999954
+16,Kevin  Magnussen  MAG,Haas Ferrari,2020,16,54.705,1.327999999999996
+17,Nicholas  Latifi  LAT,Williams Mercedes,2020,16,54.796,1.418999999999997
+18,Jack  Aitken  AIT,Williams Mercedes,2020,16,54.892,1.5150000000000006
+19,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,16,54.963,1.5859999999999983
+20,Pietro  Fittipaldi  FIT,Haas Ferrari,2020,16,55.426,2.0489999999999995
+1,Max  Verstappen  VER,Red Bull Racing Honda,2020,17,95.246,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2020,17,95.271,0.0250000000000056
+3,Lewis  Hamilton  HAM,Mercedes,2020,17,95.332,0.0859999999999985
+4,Lando  Norris  NOR,McLaren Renault,2020,17,95.497,0.2510000000000048
+5,Alexander  Albon  ALB,Red Bull Racing Honda,2020,17,95.571,0.3250000000000028
+6,Carlos  Sainz  SAI,McLaren Renault,2020,17,95.815,0.5690000000000026
+7,Daniil  Kvyat  KVY,AlphaTauri Honda,2020,17,95.963,0.7169999999999987
+8,Lance  Stroll  STR,Racing Point BWT Mercedes,2020,17,96.046,0.8000000000000114
+9,Pierre  Gasly  GAS,AlphaTauri Honda,2020,17,96.242,0.9960000000000092
+10,Esteban  Ocon  OCO,Renault,2020,17,96.359,1.1129999999999995
+11,Daniel  Ricciardo  RIC,Renault,2020,17,96.406,1.1600000000000108
+12,Charles  Leclerc  LEC,Ferrari,2020,17,96.065,0.8190000000000026
+13,Sebastian  Vettel  VET,Ferrari,2020,17,96.631,1.3850000000000051
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2020,17,98.248,3.002000000000009
+15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2020,17,97.555,2.309000000000012
+16,George  Russell  RUS,Williams Mercedes,2020,17,98.045,2.7990000000000066
+17,Pietro  Fittipaldi  FIT,Haas Ferrari,2020,17,98.173,2.9270000000000067
+18,Nicholas  Latifi  LAT,Williams Mercedes,2020,17,98.443,3.1970000000000027
+19,Sergio  Perez  PER,Racing Point BWT Mercedes,2020,17,,0.0
+20,Kevin  Magnussen  MAG,Haas Ferrari,2020,17,97.863,0.0
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,1,88.997,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,1,89.385,0.3880000000000052
+3,Valtteri  Bottas  BOT,Mercedes,2021,1,89.586,0.5889999999999986
+4,Charles  Leclerc  LEC,Ferrari,2021,1,89.678,0.6809999999999974
+5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,1,89.809,0.8119999999999976
+6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,1,89.92699999999999,0.9299999999999926
+7,Lando  Norris  NOR,McLaren Mercedes,2021,1,89.974,0.977000000000004
+8,Carlos  Sainz  SAI,Ferrari,2021,1,90.215,1.2180000000000035
+9,Fernando  Alonso  ALO,Alpine Renault,2021,1,90.249,1.2519999999999951
+10,Lance  Stroll  STR,Aston Martin Mercedes,2021,1,90.601,1.6039999999999992
+11,Sergio  Perez  PER,Red Bull Racing Honda,2021,1,90.659,1.662000000000006
+12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,1,90.708,1.7109999999999983
+13,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,1,91.203,2.206000000000003
+14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,1,91.238,2.241
+15,George  Russell  RUS,Williams Mercedes,2021,1,93.43,4.433000000000007
+16,Esteban  Ocon  OCO,Alpine Renault,2021,1,91.724,2.727000000000004
+17,Nicholas  Latifi  LAT,Williams Mercedes,2021,1,91.936,2.939000000000007
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,1,92.449,3.451999999999998
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,1,93.273,4.275999999999996
+20,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,1,92.056,3.058999999999997
+1,Lewis  Hamilton  HAM,Mercedes,2021,2,74.411,0.0
+2,Sergio  Perez  PER,Red Bull Racing Honda,2021,2,74.446,0.0349999999999965
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,2,74.498,0.0870000000000033
+4,Charles  Leclerc  LEC,Ferrari,2021,2,74.74,0.3289999999999935
+5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,2,74.78999999999999,0.3789999999999907
+6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,2,74.826,0.414999999999992
+7,Lando  Norris  NOR,McLaren Mercedes,2021,2,74.875,0.4639999999999986
+8,Valtteri  Bottas  BOT,Mercedes,2021,2,74.898,0.4869999999999947
+9,Esteban  Ocon  OCO,Alpine Renault,2021,2,75.21000000000001,0.7990000000000066
+10,Lance  Stroll  STR,Aston Martin Mercedes,2021,2,,0.0
+11,Carlos  Sainz  SAI,Ferrari,2021,2,75.199,0.0
+12,George  Russell  RUS,Williams Mercedes,2021,2,75.261,0.8610000000000042
+13,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,2,75.394,0.994000000000014
+14,Nicholas  Latifi  LAT,Williams Mercedes,2021,2,75.593,1.193000000000012
+15,Fernando  Alonso  ALO,Alpine Renault,2021,2,75.593,1.193000000000012
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,2,75.974,1.5740000000000125
+17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,2,76.122,1.7220000000000084
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,2,76.279,1.8790000000000049
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,2,76.797,2.3970000000000056
+20,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,2,,0.0
+1,Valtteri  Bottas  BOT,Mercedes,2021,3,78.348,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,3,78.355,0.007000000000005
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,3,78.746,0.3979999999999961
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,3,78.89,0.5420000000000016
+5,Carlos  Sainz  SAI,Ferrari,2021,3,79.039,0.6910000000000025
+6,Esteban  Ocon  OCO,Alpine Renault,2021,3,79.042,0.6940000000000026
+7,Lando  Norris  NOR,McLaren Mercedes,2021,3,79.116,0.7680000000000007
+8,Charles  Leclerc  LEC,Ferrari,2021,3,79.306,0.9579999999999984
+9,Pierre  Gasly  GAS,AlphaTauri Honda,2021,3,79.475,1.1269999999999951
+10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,3,79.65899999999999,1.3109999999999928
+11,George  Russell  RUS,Williams Mercedes,2021,3,79.10900000000001,0.7610000000000099
+12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,3,79.21600000000001,0.8680000000000092
+13,Fernando  Alonso  ALO,Alpine Renault,2021,3,79.456,1.108000000000004
+14,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,3,79.463,1.1149999999999949
+15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,3,79.812,1.4639999999999986
+16,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,3,79.839,1.4909999999999997
+17,Lance  Stroll  STR,Aston Martin Mercedes,2021,3,79.913,1.5649999999999975
+18,Nicholas  Latifi  LAT,Williams Mercedes,2021,3,80.285,1.9369999999999976
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,3,80.452,2.103999999999999
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,3,80.912,2.564000000000007
+1,Lewis  Hamilton  HAM,Mercedes,2021,4,76.741,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2021,4,76.777,0.0360000000000013
+3,Valtteri  Bottas  BOT,Mercedes,2021,4,76.873,0.132000000000005
+4,Charles  Leclerc  LEC,Ferrari,2021,4,77.51,0.7690000000000055
+5,Esteban  Ocon  OCO,Alpine Renault,2021,4,77.58,0.8389999999999986
+6,Carlos  Sainz  SAI,Ferrari,2021,4,77.62,0.8790000000000049
+7,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,4,77.622,0.8810000000000002
+8,Sergio  Perez  PER,Red Bull Racing Honda,2021,4,77.701,0.9599999999999936
+9,Lando  Norris  NOR,McLaren Mercedes,2021,4,78.01,1.2690000000000057
+10,Fernando  Alonso  ALO,Alpine Renault,2021,4,78.14699999999999,1.4059999999999917
+11,Lance  Stroll  STR,Aston Martin Mercedes,2021,4,77.974,1.233000000000004
+12,Pierre  Gasly  GAS,AlphaTauri Honda,2021,4,77.982,1.2409999999999997
+13,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,4,78.07900000000001,1.338000000000008
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,4,78.356,1.6149999999999949
+15,George  Russell  RUS,Williams Mercedes,2021,4,79.154,2.4129999999999967
+16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,4,78.556,1.8149999999999975
+17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,4,78.917,2.176000000000002
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,4,79.117,2.3760000000000048
+19,Nicholas  Latifi  LAT,Williams Mercedes,2021,4,79.219,2.4779999999999944
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,4,79.807,3.0660000000000025
+1,Charles  Leclerc  LEC,Ferrari,2021,5,70.346,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2021,5,70.576,0.2299999999999897
+3,Valtteri  Bottas  BOT,Mercedes,2021,5,70.601,0.2549999999999954
+4,Carlos  Sainz  SAI,Ferrari,2021,5,70.611,0.2650000000000005
+5,Lando  Norris  NOR,McLaren Mercedes,2021,5,70.62,0.2740000000000009
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,5,70.9,0.554000000000002
+7,Lewis  Hamilton  HAM,Mercedes,2021,5,71.095,0.7489999999999952
+8,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,5,71.419,1.0729999999999933
+9,Sergio  Perez  PER,Red Bull Racing Honda,2021,5,71.57300000000001,1.227000000000004
+10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,5,71.779,1.4329999999999927
+11,Esteban  Ocon  OCO,Alpine Renault,2021,5,71.486,1.1400000000000006
+12,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,5,71.598,1.2519999999999951
+13,Lance  Stroll  STR,Aston Martin Mercedes,2021,5,71.6,1.253999999999991
+14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,5,71.642,1.2959999999999925
+15,George  Russell  RUS,Williams Mercedes,2021,5,71.83,1.4839999999999949
+16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,5,72.096,1.75
+17,Fernando  Alonso  ALO,Alpine Renault,2021,5,72.205,1.8589999999999949
+18,Nicholas  Latifi  LAT,Williams Mercedes,2021,5,72.366,2.019999999999996
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,5,72.958,2.6119999999999948
+20,Mick  Schumacher  MSC,Haas Ferrari,2021,5,,0.0
+1,Charles  Leclerc  LEC,Ferrari,2021,6,101.218,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,6,101.45,0.2319999999999993
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,6,101.563,0.3449999999999988
+4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,6,101.565,0.3469999999999942
+5,Carlos  Sainz  SAI,Ferrari,2021,6,101.576,0.3579999999999899
+6,Sergio  Perez  PER,Red Bull Racing Honda,2021,6,101.917,0.6989999999999981
+7,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,6,102.211,0.992999999999995
+8,Fernando  Alonso  ALO,Alpine Renault,2021,6,102.327,1.1089999999999949
+9,Lando  Norris  NOR,McLaren Mercedes,2021,6,101.747,0.5289999999999964
+10,Valtteri  Bottas  BOT,Mercedes,2021,6,102.659,1.4410000000000025
+11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,6,102.224,1.0060000000000002
+12,Esteban  Ocon  OCO,Alpine Renault,2021,6,102.273,1.0549999999999926
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,6,102.558,1.3400000000000034
+14,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,6,102.587,1.3689999999999998
+15,George  Russell  RUS,Williams Mercedes,2021,6,102.758,1.539999999999992
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,6,103.128,1.9099999999999968
+17,Mick  Schumacher  MSC,Haas Ferrari,2021,6,104.158,2.9399999999999977
+18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,6,104.238,3.019999999999996
+19,Lance  Stroll  STR,Aston Martin Mercedes,2021,6,,0.0
+20,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,6,,0.0
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,7,89.99,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,7,90.248,0.2580000000000098
+3,Valtteri  Bottas  BOT,Mercedes,2021,7,90.376,0.3860000000000099
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,7,90.445,0.4549999999999983
+5,Carlos  Sainz  SAI,Ferrari,2021,7,90.84,0.8500000000000085
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,7,90.868,0.8780000000000001
+7,Charles  Leclerc  LEC,Ferrari,2021,7,90.987,0.997
+8,Lando  Norris  NOR,McLaren Mercedes,2021,7,91.252,1.2620000000000005
+9,Fernando  Alonso  ALO,Alpine Renault,2021,7,91.34,1.3500000000000083
+10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,7,91.382,1.39200000000001
+11,Esteban  Ocon  OCO,Alpine Renault,2021,7,91.736,1.746000000000009
+12,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,7,91.767,1.777000000000001
+13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,7,91.813,1.8230000000000075
+14,George  Russell  RUS,Williams Mercedes,2021,7,92.065,2.075000000000003
+15,Mick  Schumacher  MSC,Haas Ferrari,2021,7,,0.0
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,7,93.062,0.0
+17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,7,93.354,2.3670000000000044
+18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,7,93.554,2.5670000000000077
+19,Lance  Stroll  STR,Aston Martin Mercedes,2021,7,132.584,41.59700000000001
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,8,63.841,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,8,64.06700000000001,0.2260000000000062
+3,Lando  Norris  NOR,McLaren Mercedes,2021,8,64.12,0.2790000000000034
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,8,64.168,0.3270000000000053
+5,Valtteri  Bottas  BOT,Mercedes,2021,8,64.035,0.1939999999999955
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,8,64.236,0.3950000000000031
+7,Charles  Leclerc  LEC,Ferrari,2021,8,64.472,0.6309999999999931
+8,Fernando  Alonso  ALO,Alpine Renault,2021,8,64.574,0.732999999999997
+9,Lance  Stroll  STR,Aston Martin Mercedes,2021,8,64.708,0.8669999999999973
+10,George  Russell  RUS,Williams Mercedes,2021,8,64.671,0.8300000000000054
+11,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,8,64.514,0.6729999999999947
+12,Carlos  Sainz  SAI,Ferrari,2021,8,64.8,0.958999999999996
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,8,64.80799999999999,0.9669999999999916
+14,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,8,64.875,1.033999999999999
+15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,8,64.913,1.0719999999999956
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,8,65.175,1.333999999999996
+17,Esteban  Ocon  OCO,Alpine Renault,2021,8,65.217,1.3759999999999977
+18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,8,65.429,1.588000000000001
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,8,66.041,2.199999999999996
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,8,66.19200000000001,2.351000000000006
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,9,63.72,0.0
+2,Lando  Norris  NOR,McLaren Mercedes,2021,9,63.768,0.0480000000000018
+3,Sergio  Perez  PER,Red Bull Racing Honda,2021,9,63.99,0.2700000000000031
+4,Lewis  Hamilton  HAM,Mercedes,2021,9,64.014,0.2939999999999969
+5,Valtteri  Bottas  BOT,Mercedes,2021,9,64.049,0.3290000000000077
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,9,64.107,0.3870000000000004
+7,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,9,64.273,0.5529999999999973
+8,George  Russell  RUS,Williams Mercedes,2021,9,64.591,0.8709999999999951
+9,Lance  Stroll  STR,Aston Martin Mercedes,2021,9,64.618,0.8979999999999961
+10,Carlos  Sainz  SAI,Ferrari,2021,9,64.559,0.8389999999999986
+11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,9,64.57,0.8499999999999943
+12,Charles  Leclerc  LEC,Ferrari,2021,9,64.6,0.8799999999999955
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,9,64.719,0.9989999999999952
+14,Fernando  Alonso  ALO,Alpine Renault,2021,9,64.856,1.1359999999999957
+15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,9,65.083,1.3629999999999995
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,9,65.009,1.2890000000000017
+17,Esteban  Ocon  OCO,Alpine Renault,2021,9,65.051,1.331000000000003
+18,Nicholas  Latifi  LAT,Williams Mercedes,2021,9,65.195,1.4749999999999943
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,9,65.42699999999999,1.7069999999999936
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,9,65.951,2.2309999999999945
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,10,,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,10,,0.0
+3,Valtteri  Bottas  BOT,Mercedes,2021,10,,0.0
+4,Charles  Leclerc  LEC,Ferrari,2021,10,,0.0
+5,Lando  Norris  NOR,McLaren Mercedes,2021,10,,0.0
+6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,10,,0.0
+7,Fernando  Alonso  ALO,Alpine Renault,2021,10,,0.0
+8,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,10,,0.0
+9,Esteban  Ocon  OCO,Alpine Renault,2021,10,,0.0
+10,Carlos  Sainz  SAI,Ferrari,2021,10,,0.0
+11,Pierre  Gasly  GAS,AlphaTauri Honda,2021,10,,0.0
+12,George  Russell  RUS,Williams Mercedes,2021,10,,0.0
+13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,10,,0.0
+14,Lance  Stroll  STR,Aston Martin Mercedes,2021,10,,0.0
+15,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,10,,0.0
+16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,10,,0.0
+17,Nicholas  Latifi  LAT,Williams Mercedes,2021,10,,0.0
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,10,,0.0
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,10,,0.0
+20,Sergio  Perez  PER,Red Bull Racing Honda,2021,10,,0.0
+1,Lewis  Hamilton  HAM,Mercedes,2021,11,75.419,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2021,11,75.734,0.3149999999999977
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,11,75.84,0.4210000000000065
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,11,76.42099999999999,1.0019999999999951
+5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,11,76.483,1.0640000000000072
+6,Lando  Norris  NOR,McLaren Mercedes,2021,11,76.489,1.0700000000000074
+7,Charles  Leclerc  LEC,Ferrari,2021,11,76.496,1.0769999999999982
+8,Esteban  Ocon  OCO,Alpine Renault,2021,11,76.65299999999999,1.2339999999999949
+9,Fernando  Alonso  ALO,Alpine Renault,2021,11,76.715,1.2960000000000065
+10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,11,76.75,1.331000000000003
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,11,76.871,1.4519999999999982
+12,Lance  Stroll  STR,Aston Martin Mercedes,2021,11,76.893,1.4740000000000038
+13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,11,77.564,2.144999999999996
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,11,77.583,2.164000000000001
+15,Carlos  Sainz  SAI,Ferrari,2021,11,,0.0
+16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,11,77.919,0.0
+17,George  Russell  RUS,Williams Mercedes,2021,11,77.944,2.189000000000007
+18,Nicholas  Latifi  LAT,Williams Mercedes,2021,11,78.036,2.281000000000006
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,11,78.922,3.1670000000000016
+20,Mick  Schumacher  MSC,Haas Ferrari,2021,11,,0.0
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,12,119.765,0.0
+2,George  Russell  RUS,Williams Mercedes,2021,12,120.086,0.3209999999999979
+3,Lewis  Hamilton  HAM,Mercedes,2021,12,120.099,0.3340000000000032
+4,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,12,120.864,1.0990000000000038
+5,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,12,120.935,1.1700000000000017
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,12,121.164,1.399000000000001
+7,Sergio  Perez  PER,Red Bull Racing Honda,2021,12,122.112,2.346999999999994
+8,Esteban  Ocon  OCO,Alpine Renault,2021,12,123.513,3.7480000000000047
+9,Charles  Leclerc  LEC,Ferrari,2021,12,117.721,-2.043999999999997
+10,Nicholas  Latifi  LAT,Williams Mercedes,2021,12,118.056,-1.7090000000000032
+11,Carlos  Sainz  SAI,Ferrari,2021,12,118.137,-1.628
+12,Fernando  Alonso  ALO,Alpine Renault,2021,12,118.205,-1.5600000000000025
+13,Valtteri  Bottas  BOT,Mercedes,2021,12,122.502,2.7369999999999948
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,12,122.306,2.540999999999997
+15,Lando  Norris  NOR,McLaren Mercedes,2021,12,,0.0
+16,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,12,122.413,0.0
+17,Mick  Schumacher  MSC,Haas Ferrari,2021,12,123.973,4.100999999999999
+18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,12,124.939,5.066999999999993
+19,Lance  Stroll  STR,Aston Martin Mercedes,2021,12,118.231,-1.6410000000000051
+20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,12,124.452,4.579999999999998
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,13,68.885,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,13,68.923,0.0379999999999967
+3,Valtteri  Bottas  BOT,Mercedes,2021,13,69.222,0.3369999999999891
+4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,13,69.478,0.5929999999999893
+5,Charles  Leclerc  LEC,Ferrari,2021,13,69.527,0.6419999999999959
+6,Carlos  Sainz  SAI,Ferrari,2021,13,69.537,0.652000000000001
+7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,13,69.59,0.7049999999999983
+8,Esteban  Ocon  OCO,Alpine Renault,2021,13,69.93299999999999,1.0479999999999876
+9,Fernando  Alonso  ALO,Alpine Renault,2021,13,69.956,1.070999999999998
+10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,13,70.166,1.2809999999999917
+11,George  Russell  RUS,Williams Mercedes,2021,13,70.332,1.4469999999999883
+12,Lance  Stroll  STR,Aston Martin Mercedes,2021,13,70.367,1.481999999999999
+13,Lando  Norris  NOR,McLaren Mercedes,2021,13,70.406,1.5210000000000008
+14,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,13,71.314,2.428999999999988
+15,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,13,70.731,1.8459999999999892
+16,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,2021,13,71.301,2.415999999999997
+17,Mick  Schumacher  MSC,Haas Ferrari,2021,13,71.387,2.501999999999996
+18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,13,71.875,2.989999999999995
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,14,,0.0
+2,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,14,,0.0
+3,Lando  Norris  NOR,McLaren Mercedes,2021,14,,0.0
+4,Lewis  Hamilton  HAM,Mercedes,2021,14,,0.0
+5,Charles  Leclerc  LEC,Ferrari,2021,14,,0.0
+6,Carlos  Sainz  SAI,Ferrari,2021,14,,0.0
+7,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,14,,0.0
+8,Sergio  Perez  PER,Red Bull Racing Honda,2021,14,,0.0
+9,Lance  Stroll  STR,Aston Martin Mercedes,2021,14,,0.0
+10,Fernando  Alonso  ALO,Alpine Renault,2021,14,,0.0
+11,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,14,,0.0
+12,Esteban  Ocon  OCO,Alpine Renault,2021,14,,0.0
+13,Nicholas  Latifi  LAT,Williams Mercedes,2021,14,,0.0
+14,George  Russell  RUS,Williams Mercedes,2021,14,,0.0
+15,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,14,,0.0
+16,Nikita  Mazepin  MAZ,Haas Ferrari,2021,14,,0.0
+17,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,2021,14,,0.0
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,14,,0.0
+19,Valtteri  Bottas  BOT,Mercedes,2021,14,,0.0
+1,Lando  Norris  NOR,McLaren Mercedes,2021,15,101.993,0.0
+2,Carlos  Sainz  SAI,Ferrari,2021,15,102.51,0.5170000000000101
+3,George  Russell  RUS,Williams Mercedes,2021,15,102.983,0.9900000000000092
+4,Lewis  Hamilton  HAM,Mercedes,2021,15,104.05,2.057000000000002
+5,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,15,104.156,2.163000000000011
+6,Fernando  Alonso  ALO,Alpine Renault,2021,15,104.204,2.2109999999999985
+7,Lance  Stroll  STR,Aston Martin Mercedes,2021,15,104.956,2.963000000000008
+8,Sergio  Perez  PER,Red Bull Racing Honda,2021,15,105.337,3.3440000000000083
+9,Esteban  Ocon  OCO,Alpine Renault,2021,15,105.865,3.872
+10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,15,106.573,4.579999999999998
+11,Pierre  Gasly  GAS,AlphaTauri Honda,2021,15,106.641,4.64800000000001
+12,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,15,106.751,4.75800000000001
+13,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,15,109.586,7.5930000000000035
+14,Mick  Schumacher  MSC,Haas Ferrari,2021,15,109.83,7.837000000000003
+15,Nikita  Mazepin  MAZ,Haas Ferrari,2021,15,113.764,11.771
+16,Valtteri  Bottas  BOT,Mercedes,2021,15,104.71,2.7169999999999987
+17,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,15,111.023,9.03
+18,Nicholas  Latifi  LAT,Williams Mercedes,2021,15,,0.0
+19,Charles  Leclerc  LEC,Ferrari,2021,15,,0.0
+20,Max  Verstappen  VER,Red Bull Racing Honda,2021,15,,0.0
+1,Valtteri  Bottas  BOT,Mercedes,2021,16,82.998,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2021,16,83.196,0.1979999999999933
+3,Charles  Leclerc  LEC,Ferrari,2021,16,83.265,0.2669999999999959
+4,Pierre  Gasly  GAS,AlphaTauri Honda,2021,16,83.326,0.3279999999999887
+5,Fernando  Alonso  ALO,Alpine Renault,2021,16,83.477,0.4789999999999992
+6,Sergio  Perez  PER,Red Bull Racing Honda,2021,16,83.706,0.7079999999999984
+7,Lando  Norris  NOR,McLaren Mercedes,2021,16,83.95400000000001,0.9560000000000032
+8,Lance  Stroll  STR,Aston Martin Mercedes,2021,16,84.305,1.3070000000000022
+9,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,16,84.368,1.3699999999999903
+10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,16,84.795,1.796999999999997
+11,Lewis  Hamilton  HAM,Mercedes,2021,16,82.868,-0.1300000000000096
+12,Esteban  Ocon  OCO,Alpine Renault,2021,16,84.842,1.843999999999994
+13,George  Russell  RUS,Williams Mercedes,2021,16,85.007,2.0090000000000003
+14,Mick  Schumacher  MSC,Haas Ferrari,2021,16,85.2,2.201999999999998
+15,Nicholas  Latifi  LAT,Williams Mercedes,2021,16,86.086,3.087999999999994
+16,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,16,86.43,3.432000000000002
+17,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,16,87.525,4.527000000000001
+18,Nikita  Mazepin  MAZ,Haas Ferrari,2021,16,88.449,5.450999999999993
+19,Carlos  Sainz  SAI,Ferrari,2021,16,,0.0
+20,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,16,85.881,0.0
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,17,92.91,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,17,93.119,0.2090000000000031
+3,Sergio  Perez  PER,Red Bull Racing Honda,2021,17,93.134,0.2240000000000037
+4,Charles  Leclerc  LEC,Ferrari,2021,17,93.606,0.695999999999998
+5,Carlos  Sainz  SAI,Ferrari,2021,17,93.792,0.882000000000005
+6,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,17,93.808,0.8980000000000103
+7,Lando  Norris  NOR,McLaren Mercedes,2021,17,93.887,0.977000000000004
+8,Pierre  Gasly  GAS,AlphaTauri Honda,2021,17,94.118,1.2079999999999984
+9,Valtteri  Bottas  BOT,Mercedes,2021,17,93.475,0.5649999999999977
+10,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,17,94.918,2.0080000000000098
+11,Esteban  Ocon  OCO,Alpine Renault,2021,17,95.377,2.4669999999999987
+12,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,17,95.794,2.8840000000000003
+13,Lance  Stroll  STR,Aston Martin Mercedes,2021,17,95.983,3.0730000000000075
+14,Nicholas  Latifi  LAT,Williams Mercedes,2021,17,95.995,3.085000000000008
+15,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,17,96.311,3.4010000000000105
+16,Mick  Schumacher  MSC,Haas Ferrari,2021,17,96.499,3.588999999999998
+17,Nikita  Mazepin  MAZ,Haas Ferrari,2021,17,96.796,3.88600000000001
+18,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,17,95.5,2.5900000000000034
+19,Fernando  Alonso  ALO,Alpine Renault,2021,17,104.549,11.63900000000001
+20,George  Russell  RUS,Williams Mercedes,2021,17,,0.0
+1,Valtteri  Bottas  BOT,Mercedes,2021,18,75.875,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,18,76.02,0.144999999999996
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,18,76.225,0.3499999999999943
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,18,76.342,0.4669999999999987
+5,Pierre  Gasly  GAS,AlphaTauri Honda,2021,18,76.456,0.5810000000000031
+6,Carlos  Sainz  SAI,Ferrari,2021,18,76.761,0.8859999999999957
+7,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,18,76.763,0.8880000000000052
+8,Charles  Leclerc  LEC,Ferrari,2021,18,76.837,0.9620000000000032
+9,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,18,77.746,1.8709999999999951
+10,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,18,77.958,2.0829999999999984
+11,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,18,78.28999999999999,2.414999999999992
+12,Fernando  Alonso  ALO,Alpine Renault,2021,18,78.452,2.576999999999998
+13,Nicholas  Latifi  LAT,Williams Mercedes,2021,18,78.756,2.881
+14,Mick  Schumacher  MSC,Haas Ferrari,2021,18,78.858,2.983000000000004
+15,Nikita  Mazepin  MAZ,Haas Ferrari,2021,18,79.303,3.4279999999999973
+16,George  Russell  RUS,Williams Mercedes,2021,18,78.172,2.296999999999997
+17,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,18,77.158,1.2830000000000013
+18,Lando  Norris  NOR,McLaren Mercedes,2021,18,96.83,20.955
+19,Esteban  Ocon  OCO,Alpine Renault,2021,18,78.405,2.530000000000001
+20,Lance  Stroll  STR,Aston Martin Mercedes,2021,18,80.873,4.998000000000005
+1,Valtteri  Bottas  BOT,Mercedes,2021,19,,0.0
+2,Max  Verstappen  VER,Red Bull Racing Honda,2021,19,,0.0
+3,Carlos  Sainz  SAI,Ferrari,2021,19,,0.0
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,19,,0.0
+5,Lando  Norris  NOR,McLaren Mercedes,2021,19,,0.0
+6,Charles  Leclerc  LEC,Ferrari,2021,19,,0.0
+7,Pierre  Gasly  GAS,AlphaTauri Honda,2021,19,,0.0
+8,Esteban  Ocon  OCO,Alpine Renault,2021,19,,0.0
+9,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,19,,0.0
+10,Lewis  Hamilton  HAM,Mercedes,2021,19,,0.0
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,19,,0.0
+12,Fernando  Alonso  ALO,Alpine Renault,2021,19,,0.0
+13,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,19,,0.0
+14,Lance  Stroll  STR,Aston Martin Mercedes,2021,19,,0.0
+15,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,19,,0.0
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,19,,0.0
+17,George  Russell  RUS,Williams Mercedes,2021,19,,0.0
+18,Mick  Schumacher  MSC,Haas Ferrari,2021,19,,0.0
+19,Nikita  Mazepin  MAZ,Haas Ferrari,2021,19,,0.0
+20,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,19,,0.0
+1,Lewis  Hamilton  HAM,Mercedes,2021,20,80.827,0.0
+2,Pierre  Gasly  GAS,AlphaTauri Honda,2021,20,81.64,0.8130000000000024
+3,Fernando  Alonso  ALO,Alpine Renault,2021,20,81.67,0.8430000000000035
+4,Lando  Norris  NOR,McLaren Mercedes,2021,20,81.731,0.9039999999999964
+5,Carlos  Sainz  SAI,Ferrari,2021,20,81.84,1.0130000000000052
+6,Valtteri  Bottas  BOT,Mercedes,2021,20,81.47800000000001,0.6510000000000105
+7,Max  Verstappen  VER,Red Bull Racing Honda,2021,20,81.424,0.5970000000000084
+8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,20,81.881,1.054000000000002
+9,Esteban  Ocon  OCO,Alpine Renault,2021,20,82.02799999999999,1.2009999999999934
+10,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,20,82.785,1.9579999999999984
+11,Sergio  Perez  PER,Red Bull Racing Honda,2021,20,82.346,1.5190000000000057
+12,Lance  Stroll  STR,Aston Martin Mercedes,2021,20,82.46000000000001,1.6330000000000098
+13,Charles  Leclerc  LEC,Ferrari,2021,20,82.463,1.6359999999999957
+14,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,20,82.59700000000001,1.7700000000000102
+15,George  Russell  RUS,Williams Mercedes,2021,20,82.756,1.929000000000002
+16,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,20,83.156,2.329000000000008
+17,Nicholas  Latifi  LAT,Williams Mercedes,2021,20,83.213,2.385999999999996
+18,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,20,83.262,2.4350000000000023
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,20,83.407,2.5799999999999983
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,20,85.85900000000001,5.032000000000011
+1,Lewis  Hamilton  HAM,Mercedes,2021,21,87.511,0.0
+2,Valtteri  Bottas  BOT,Mercedes,2021,21,87.622,0.1110000000000042
+3,Max  Verstappen  VER,Red Bull Racing Honda,2021,21,87.65299999999999,0.1419999999999959
+4,Charles  Leclerc  LEC,Ferrari,2021,21,88.054,0.5430000000000064
+5,Sergio  Perez  PER,Red Bull Racing Honda,2021,21,88.123,0.612000000000009
+6,Pierre  Gasly  GAS,AlphaTauri Honda,2021,21,88.125,0.6140000000000043
+7,Lando  Norris  NOR,McLaren Mercedes,2021,21,88.18,0.6690000000000111
+8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,21,88.44200000000001,0.9310000000000116
+9,Esteban  Ocon  OCO,Alpine Renault,2021,21,88.64699999999999,1.1359999999999957
+10,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,21,88.754,1.2430000000000092
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,21,88.668,1.157000000000011
+12,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,21,88.885,1.3740000000000094
+13,Fernando  Alonso  ALO,Alpine Renault,2021,21,88.92,1.409000000000006
+14,George  Russell  RUS,Williams Mercedes,2021,21,89.054,1.5430000000000064
+15,Carlos  Sainz  SAI,Ferrari,2021,21,113.652,26.141000000000005
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,21,89.17699999999999,1.6659999999999968
+17,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,21,89.19800000000001,1.6870000000000118
+18,Lance  Stroll  STR,Aston Martin Mercedes,2021,21,89.368,1.8569999999999995
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,21,89.464,1.953000000000003
+20,Nikita  Mazepin  MAZ,Haas Ferrari,2021,21,90.473,2.9620000000000037
+1,Max  Verstappen  VER,Red Bull Racing Honda,2021,22,82.10900000000001,0.0
+2,Lewis  Hamilton  HAM,Mercedes,2021,22,82.48,0.3709999999999951
+3,Lando  Norris  NOR,McLaren Mercedes,2021,22,82.931,0.8219999999999885
+4,Sergio  Perez  PER,Red Bull Racing Honda,2021,22,82.947,0.8379999999999939
+5,Carlos  Sainz  SAI,Ferrari,2021,22,82.992,0.8829999999999956
+6,Valtteri  Bottas  BOT,Mercedes,2021,22,83.036,0.9269999999999924
+7,Charles  Leclerc  LEC,Ferrari,2021,22,83.122,1.012999999999991
+8,Yuki  Tsunoda  TSU,AlphaTauri Honda,2021,22,83.22,1.11099999999999
+9,Esteban  Ocon  OCO,Alpine Renault,2021,22,83.389,1.279999999999987
+10,Daniel  Ricciardo  RIC,McLaren Mercedes,2021,22,83.40899999999999,1.299999999999983
+11,Fernando  Alonso  ALO,Alpine Renault,2021,22,83.46000000000001,1.350999999999999
+12,Pierre  Gasly  GAS,AlphaTauri Honda,2021,22,84.043,1.9339999999999973
+13,Lance  Stroll  STR,Aston Martin Mercedes,2021,22,84.066,1.9569999999999936
+14,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,2021,22,84.251,2.141999999999996
+15,Sebastian  Vettel  VET,Aston Martin Mercedes,2021,22,84.305,2.195999999999998
+16,Nicholas  Latifi  LAT,Williams Mercedes,2021,22,84.338,2.228999999999985
+17,George  Russell  RUS,Williams Mercedes,2021,22,84.423,2.313999999999993
+18,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,2021,22,84.779,2.6699999999999875
+19,Mick  Schumacher  MSC,Haas Ferrari,2021,22,84.906,2.796999999999997
