@@ -1,0 +1,5 @@
+Qualifying
+    -   Qualifying time
+    -   Delta time
+    -   Win percentage from Pole
+
