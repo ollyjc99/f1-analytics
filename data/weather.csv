@@ -1,40 +1,161 @@
-season,round,circuit_id,weather,warm,cold,dry,wet,cloudy
-2020,1,red_bull_ring,Sunny,True,False,False,False,False
-2020,2,red_bull_ring,Sunny,True,False,False,False,False
-2020,3,hungaroring,"Wet at start, partly cloudy",False,False,False,True,True
-2020,4,silverstone,Partly cloudy,False,False,False,False,True
-2020,5,silverstone,Sunny,True,False,False,False,False
-2020,6,catalunya,Partly cloudy,False,False,False,False,True
-2020,7,spa,Partly cloudy,False,False,False,False,True
-2020,8,monza,Sunny,True,False,False,False,False
-2020,9,mugello,Sunny,True,False,False,False,False
-2020,10,sochi,Sunny,True,False,False,False,False
-2020,11,nurburgring,"Partly cloudy, 10 °C (50 °F)",False,False,False,False,False
-2020,12,portimao,Cloudy,False,False,False,False,True
-2020,13,imola,Partly cloudy,False,False,False,False,True
-2020,14,istanbul,Overcast. Wet and drying track. Air: 11–14 °C (52–57 °F); Track: 14–17 °C (57–63 °F),False,False,False,True,False
-2020,15,bahrain,Clear,True,False,False,False,False
-2020,16,bahrain,Clear,True,False,False,False,False
-2020,17,yas_marina,Clear,True,False,False,False,False
-2021,1,bahrain,"Clear, 21 °C (70 °F)",False,False,False,False,False
-2021,2,imola,"Wet at start, drying during race, 9 °C (48 °F)",False,False,False,True,False
-2021,3,portimao,Light cloud,False,False,False,False,False
-2021,4,catalunya,Cloudy,False,False,False,False,True
-2021,5,monaco,Sunny,True,False,False,False,False
-2021,6,baku,Sunny,True,False,False,False,False
-2021,7,ricard,Windy and partly cloudy. Ambient temperature: 24 to 27 °C (75 to 81 °F); Surface temperature: 33 to 38 °C (91 to 100 °F),False,False,False,False,False
-2021,8,red_bull_ring,Partly cloudy. Ambient temperature: 25 to 29 °C (77 to 84 °F); Surface temperature: 48 to 56 °C (118 to 133 °F),False,False,False,False,False
-2021,9,red_bull_ring,Partly cloudy,False,False,False,False,True
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),False,False,False,False,False
-2021,11,hungaroring,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).[3],False,False,False,True,False
-2021,12,spa,"Wet, persistent rain",False,False,False,True,False
-2021,13,zandvoort,Sunny,True,False,False,False,False
-2021,14,monza,Sunny,True,False,False,False,False
-2021,15,sochi,Cloudy and rainy,False,False,False,True,True
-2021,16,istanbul,Overcast with intermittent rain,False,False,False,True,True
-2021,17,americas,Sunny,True,False,False,False,False
-2021,18,rodriguez,Sunny,True,False,False,False,False
-2021,19,interlagos,Sunny,True,False,False,False,False
-2021,20,losail,Clear,True,False,False,False,False
-2021,21,jeddah,Clear,True,False,False,False,False
-2021,22,yas_marina,Clear,True,False,False,False,False
+season,round,circuit_id,temp,rhum,coco,prcp,conditions
+2014,1,albert_park,17.93,44.0,,0.0,
+2014,2,sepang,31.3,65.0,,0.0,
+2014,3,bahrain,22.85,44.5,,0.0,
+2014,4,shanghai,16.5,66.5,,0.0,
+2014,5,catalunya,21.75,60.5,,0.0,
+2014,6,monaco,19.75,59.5,,0.0,
+2014,7,villeneuve,27.35,38.0,,0.0,
+2014,8,red_bull_ring,25.8,29.5,,0.0,
+2014,9,silverstone,19.5,51.5,,0.0,
+2014,10,hockenheimring,23.45,66.2,,0.1,
+2014,11,hungaroring,24.4,74.2,,0.0,
+2014,12,spa,14.4,58.5,,0.0,
+2014,13,monza,26.85,58.0,,0.0,
+2014,14,marina_bay,29.25,68.0,,0.0,
+2014,15,suzuka,19.0,100.0,,0.0,
+2014,16,sochi,,,,0.0,
+2014,17,americas,23.47,40.5,,0.0,
+2014,18,interlagos,23.68,59.2,,0.0,
+2014,19,yas_marina,25.75,71.8,,0.0,
+2015,1,albert_park,16.57,60.2,,0.0,
+2015,2,sepang,32.6,61.5,,0.0,
+2015,3,shanghai,21.0,37.8,,0.0,
+2015,4,bahrain,24.25,51.5,,0.0,
+2015,5,catalunya,29.25,36.5,,0.0,
+2015,6,monaco,18.93,64.2,,0.0,
+2015,7,villeneuve,21.18,29.2,,0.0,
+2015,8,red_bull_ring,15.12,45.8,,0.0,
+2015,9,silverstone,19.75,57.2,,0.0,
+2015,10,hungaroring,24.33,34.0,,0.0,
+2015,11,spa,22.88,47.8,,0.0,
+2015,12,monza,23.55,33.8,,0.0,
+2015,13,marina_bay,30.0,74.8,,0.0,
+2015,14,suzuka,26.0,67.5,,0.0,
+2015,15,sochi,,,,0.0,
+2015,16,americas,17.65,81.8,,0.0,
+2015,17,rodriguez,23.6,58.0,,0.0,
+2015,18,interlagos,25.0,66.8,,0.0,
+2015,19,yas_marina,25.9,58.5,,0.0,
+2016,1,albert_park,20.43,54.0,,0.0,
+2016,2,bahrain,21.5,52.8,,0.0,
+2016,3,shanghai,21.5,37.8,,0.0,
+2016,4,sochi,,,,0.0,
+2016,5,catalunya,21.75,62.0,,0.0,
+2016,6,monaco,17.97,87.5,,0.0,
+2016,7,villeneuve,11.4,61.0,7.0,0.0,Light Rain
+2016,8,baku,28.25,51.8,,0.0,
+2016,9,red_bull_ring,16.05,65.2,,0.0,
+2016,10,silverstone,20.5,75.8,,0.0,
+2016,11,hungaroring,29.45,49.2,,0.0,
+2016,12,hockenheimring,24.4,44.8,,0.0,
+2016,13,spa,24.02,62.2,,0.0,
+2016,14,monza,29.85,44.0,,0.0,
+2016,15,marina_bay,30.5,68.0,,0.0,
+2016,16,sepang,33.27,55.5,,0.0,
+2016,17,suzuka,22.0,59.2,,0.0,
+2016,18,americas,28.05,38.5,,0.0,
+2016,19,rodriguez,21.7,59.0,,0.0,
+2016,20,interlagos,18.12,89.8,7.0,0.0,Light Rain
+2016,21,yas_marina,25.8,58.0,,0.0,
+2017,1,albert_park,23.5,67.8,,0.0,
+2017,2,shanghai,12.75,88.0,5.0,0.0,Fog
+2017,3,bahrain,25.0,69.0,,0.0,
+2017,4,sochi,,,,0.0,
+2017,5,catalunya,24.0,45.0,,0.0,
+2017,6,monaco,24.28,54.0,,0.0,
+2017,7,villeneuve,28.62,46.5,,0.0,
+2017,8,baku,25.8,67.0,,0.0,
+2017,9,red_bull_ring,28.32,38.0,25.0,0.0,Thunderstorm
+2017,10,silverstone,23.0,74.5,,0.0,
+2017,11,hungaroring,30.68,34.8,,0.0,
+2017,12,spa,21.88,59.2,,0.0,
+2017,13,monza,24.5,27.2,,0.0,
+2017,14,marina_bay,28.0,82.8,7.0,0.0,Light Rain
+2017,15,sepang,30.9,70.5,,0.0,
+2017,16,suzuka,23.75,72.5,,0.0,
+2017,17,americas,24.73,48.0,,0.0,
+2017,18,rodriguez,23.0,30.0,,0.0,
+2017,19,interlagos,27.43,25.2,,0.0,
+2017,20,yas_marina,24.25,54.8,,0.0,
+2018,1,albert_park,22.43,33.0,,0.0,
+2018,2,bahrain,25.93,66.0,5.0,0.0,Fog
+2018,3,shanghai,18.87,31.0,2.0,0.0,Fair
+2018,4,baku,14.53,61.3,2.0,0.0,Fair
+2018,5,catalunya,14.67,67.0,,0.0,
+2018,6,monaco,23.6,65.7,3.0,0.0,Cloudy
+2018,7,villeneuve,18.93,32.0,,0.0,
+2018,8,ricard,24.63,60.0,17.0,0.0,Rain Shower
+2018,9,red_bull_ring,21.33,45.0,2.0,0.0,Fair
+2018,10,silverstone,28.33,41.3,,0.0,
+2018,11,hockenheimring,22.63,74.3,8.0,36.8,Rain
+2018,12,hungaroring,33.2,32.7,2.0,0.0,Fair
+2018,13,spa,15.67,41.3,1.0,0.0,Clear
+2018,14,monza,21.53,80.3,3.0,0.0,Cloudy
+2018,15,marina_bay,29.0,68.7,2.0,0.0,Fair
+2018,16,sochi,,,,0.0,
+2018,17,suzuka,25.67,68.0,,0.0,
+2018,18,americas,22.97,37.3,1.0,0.0,Clear
+2018,19,rodriguez,19.33,51.3,3.0,0.0,Cloudy
+2018,20,interlagos,21.8,80.0,3.0,0.0,Cloudy
+2018,21,yas_marina,27.27,62.7,2.0,0.0,Fair
+2019,1,albert_park,23.43,55.3,,0.0,
+2019,2,bahrain,25.1,60.7,3.0,0.0,Cloudy
+2019,3,shanghai,17.2,61.0,4.0,0.0,Overcast
+2019,4,baku,17.97,51.0,1.0,0.0,Clear
+2019,5,catalunya,20.33,53.7,,0.0,
+2019,6,monaco,17.9,69.3,4.0,0.0,Overcast
+2019,7,villeneuve,29.0,15.3,,0.0,
+2019,8,ricard,26.97,49.0,2.0,0.0,Fair
+2019,9,red_bull_ring,33.33,17.0,2.0,0.0,Fair
+2019,10,silverstone,19.33,65.3,,0.0,
+2019,11,hockenheimring,21.3,87.3,7.0,2.3000000000000003,Light Rain
+2019,12,hungaroring,25.63,35.7,2.0,0.0,Fair
+2019,13,spa,16.0,61.0,2.0,0.0,Fair
+2019,14,monza,19.6,54.3,18.0,0.0,Heavy Rain Shower
+2019,15,marina_bay,29.0,70.0,5.0,0.0,Fog
+2019,16,sochi,,,,0.0,
+2019,17,suzuka,22.67,62.3,,0.0,
+2019,18,rodriguez,21.67,47.7,8.0,0.0,Rain
+2019,19,americas,22.6,31.0,1.0,0.0,Clear
+2019,20,interlagos,19.5,65.3,2.0,0.0,Fair
+2019,21,yas_marina,25.0,69.0,2.0,0.0,Fair
+2020,1,red_bull_ring,27.67,38.7,,0.0,
+2020,2,red_bull_ring,19.67,39.0,,0.0,
+2020,3,hungaroring,20.33,82.3,18.0,0.0,Heavy Rain Shower
+2020,4,silverstone,21.33,45.0,17.0,0.0,Rain Shower
+2020,5,silverstone,26.67,59.0,,0.0,
+2020,6,catalunya,28.33,67.3,,0.0,
+2020,7,spa,16.23,66.7,3.0,0.0,Cloudy
+2020,8,monza,28.87,37.7,1.0,0.0,Clear
+2020,9,mugello,,,,0.0,
+2020,10,sochi,,,,0.0,
+2020,11,nurburgring,9.47,64.3,4.0,0.0,Overcast
+2020,12,portimao,,,,0.0,
+2020,13,imola,17.0,64.7,3.0,0.0,Cloudy
+2020,14,istanbul,14.23,71.0,,0.0,
+2020,15,bahrain,24.57,76.0,1.0,0.0,Clear
+2020,16,bahrain,20.17,66.3,1.0,0.0,Clear
+2020,17,yas_marina,22.4,57.7,2.0,0.0,Fair
+2021,1,bahrain,20.52,55.8,1.0,0.0,Clear
+2021,2,imola,12.0,47.0,3.0,0.0,Cloudy
+2021,3,portimao,,,,0.0,
+2021,4,catalunya,21.5,67.8,,0.0,
+2021,5,monaco,21.02,42.5,4.0,0.0,Overcast
+2021,6,baku,23.2,59.5,2.0,0.0,Fair
+2021,7,ricard,25.1,72.0,3.0,0.0,Cloudy
+2021,8,red_bull_ring,26.0,43.8,2.0,0.0,Fair
+2021,9,red_bull_ring,21.5,54.8,3.0,0.0,Cloudy
+2021,10,silverstone,27.75,49.5,,0.0,
+2021,11,hungaroring,28.62,62.8,3.0,0.0,Cloudy
+2021,12,spa,11.98,98.8,7.0,1.7999999999999998,Light Rain
+2021,13,zandvoort,19.7,66.0,4.0,0.0,Overcast
+2021,14,monza,29.02,33.0,1.0,0.0,Clear
+2021,15,sochi,,,,0.0,
+2021,16,istanbul,16.77,94.0,,0.0,
+2021,17,americas,29.42,56.0,2.0,0.0,Fair
+2021,18,rodriguez,21.73,39.5,2.0,0.0,Fair
+2021,19,interlagos,21.35,62.0,2.0,0.0,Fair
+2021,20,losail,25.57,81.2,1.0,0.0,Clear
+2021,21,jeddah,27.77,69.7,1.0,0.0,Clear
+2021,22,yas_marina,24.25,55.5,2.0,0.0,Fair
