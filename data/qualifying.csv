@@ -1,4 +1,4 @@
-season,round,position,circuit_id,driver,fastest_time,stage,q_delta
+season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,1,1,albert_park,hamilton,104.231,q3,0.0
 2014,1,10,albert_park,bottas,108.147,q3,3.916000000000011
 2014,1,11,albert_park,button,104.437,q2,0.20600000000000307
