@@ -3686,3 +3686,23 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 2022,21,interlagos,norris,1999-11-13,British,mclaren,6,,Gearbox,0.0,18,1:15.855
 2022,21,interlagos,kevin_magnussen,1992-10-05,Danish,haas,8,,Collision,0.0,19,
 2022,21,interlagos,ricciardo,1989-07-01,Australian,mclaren,11,,Collision,0.0,20,
+2022,22,yas_marina,max_verstappen,1997-09-30,Dutch,red_bull,1,5265914.0,Finished,25.0,1,1:29.392
+2022,22,yas_marina,leclerc,1997-10-16,Monegasque,ferrari,3,5274685.0,Finished,18.0,2,1:29.719
+2022,22,yas_marina,perez,1990-01-26,Mexican,red_bull,2,5276007.0,Finished,15.0,3,1:28.972
+2022,22,yas_marina,sainz,1994-09-01,Spanish,ferrari,4,5290806.0,Finished,12.0,4,1:28.879
+2022,22,yas_marina,russell,1998-02-15,British,mercedes,6,5301802.0,Finished,10.0,5,1:28.836
+2022,22,yas_marina,norris,1999-11-13,British,mclaren,7,5322148.0,Finished,9.0,6,1:28.391
+2022,22,yas_marina,ocon,1996-09-17,French,alpine,8,5323154.0,Finished,6.0,7,1:29.333
+2022,22,yas_marina,stroll,1998-10-29,Canadian,aston_martin,14,5342845.0,Finished,4.0,8,1:29.620
+2022,22,yas_marina,ricciardo,1989-07-01,Australian,mclaren,13,5349182.0,Finished,2.0,9,1:30.785
+2022,22,yas_marina,vettel,1987-07-03,German,aston_martin,9,5349812.0,Finished,1.0,10,1:30.312
+2022,22,yas_marina,tsunoda,2000-05-11,Japanese,alphatauri,11,5355285.0,Finished,0.0,11,1:29.489
+2022,22,yas_marina,zhou,1999-05-30,Chinese,alfa,15,,+1 Lap,0.0,12,1:29.600
+2022,22,yas_marina,albon,1996-03-23,Thai,williams,19,,+1 Lap,0.0,13,1:29.939
+2022,22,yas_marina,gasly,1996-02-07,French,alphatauri,17,,+1 Lap,0.0,14,1:31.081
+2022,22,yas_marina,bottas,1989-08-28,Finnish,alfa,18,,+1 Lap,0.0,15,1:30.352
+2022,22,yas_marina,mick_schumacher,1999-03-22,German,haas,12,,+1 Lap,0.0,16,1:29.833
+2022,22,yas_marina,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0.0,17,1:31.158
+2022,22,yas_marina,hamilton,1985-01-07,British,mercedes,5,,Gearbox,0.0,18,1:29.788
+2022,22,yas_marina,latifi,1995-06-29,Canadian,williams,20,,Collision damage,0.0,19,1:30.309
+2022,22,yas_marina,alonso,1981-07-29,Spanish,alpine,10,,Water leak,0.0,20,1:30.579

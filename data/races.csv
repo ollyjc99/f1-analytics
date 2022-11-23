@@ -180,3 +180,4 @@ season,round,circuit_id,country,lat,long,url,date
 2022,19,americas,USA,30.1328,-97.6411,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix,2022-10-23 19:00:00
 2022,20,rodriguez,Mexico,19.4042,-99.0907,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix,2022-10-30 20:00:00
 2022,21,interlagos,Brazil,-23.7036,-46.6997,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix,2022-11-13 18:00:00
+2022,22,yas_marina,UAE,24.4672,54.6031,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix,2022-11-20 13:00:00
