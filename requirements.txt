@@ -5,3 +5,4 @@ sklearn
 geopy
 folium
 geopandas
+unidecode
