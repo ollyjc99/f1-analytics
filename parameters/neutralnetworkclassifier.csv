@@ -1,8 +1,8 @@
 ,model,hidden_layer_sizes,activation,solver,alpha,score
-194,neural_network_classifier,"(80, 20, 40, 5)",relu,lbfgs,2.6366508987303554,0.5
 360,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.0001,0.5454545454545454
+372,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.615848211066026,0.5
+194,neural_network_classifier,"(80, 20, 40, 5)",relu,lbfgs,2.6366508987303554,0.5
 366,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.007847599703514606,0.5
 367,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.01623776739188721,0.5
 370,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.14384498882876628,0.5
 371,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.29763514416313164,0.5
-372,neural_network_classifier,"(75, 25, 50, 10)",tanh,lbfgs,0.615848211066026,0.5
