@@ -13,7 +13,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,1,2,albert_park,daniel_ricciardo,104.548,q3,0.3170000000000073
 2014,1,20,albert_park,marcus_ericsson,95.157,q1,0.0
 2014,1,21,albert_park,romain_grosjean,96.993,q1,0.0
-2014,1,22,albert_park,pastor_maldonado,,,0.0
+2014,1,22,albert_park,pastor_maldonado,,q1,0.0
 2014,1,3,albert_park,nico_rosberg,104.595,q3,0.0
 2014,1,4,albert_park,kevin_magnussen,105.745,q3,0.0
 2014,1,5,albert_park,fernando_alonso,105.819,q3,0.0
@@ -79,7 +79,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,4,2,shanghai,daniel_ricciardo,114.455,q3,0.5949999999999989
 2014,4,20,shanghai,marcus_ericsson,120.646,q1,6.786000000000001
 2014,4,21,shanghai,max_chilton,120.865,q1,7.0049999999999955
-2014,4,22,shanghai,pastor_maldonado,,,0.0
+2014,4,22,shanghai,pastor_maldonado,,q1,0.0
 2014,4,3,shanghai,sebastian_vettel,114.96,q3,0.0
 2014,4,4,shanghai,nico_rosberg,115.143,q3,7.188000000000002
 2014,4,5,shanghai,fernando_alonso,115.637,q3,7.682000000000002
@@ -101,7 +101,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,5,2,catalunya,nico_rosberg,85.4,q3,0.16800000000000637
 2014,5,20,catalunya,marcus_ericsson,90.312,q1,5.079999999999998
 2014,5,21,catalunya,kamui_kobayashi,90.375,q1,5.143000000000001
-2014,5,22,catalunya,pastor_maldonado,,,0.0
+2014,5,22,catalunya,pastor_maldonado,,q1,0.0
 2014,5,3,catalunya,daniel_ricciardo,86.285,q3,0.0
 2014,5,4,catalunya,valtteri_bottas,86.632,q3,5.490000000000009
 2014,5,5,catalunya,romain_grosjean,86.96,q3,5.817999999999998
@@ -145,7 +145,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,7,2,villeneuve,lewis_hamilton,74.953,q3,0.07900000000000773
 2014,7,20,villeneuve,kamui_kobayashi,79.278,q1,4.404000000000011
 2014,7,21,villeneuve,marcus_ericsson,79.82,q1,4.945999999999998
-2014,7,22,villeneuve,esteban_gutierrez,,,0.0
+2014,7,22,villeneuve,esteban_gutierrez,,q1,0.0
 2014,7,3,villeneuve,sebastian_vettel,75.548,q3,0.0
 2014,7,4,villeneuve,valtteri_bottas,75.55,q3,4.947999999999993
 2014,7,5,villeneuve,felipe_massa,75.578,q3,4.975999999999999
@@ -211,7 +211,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,10,2,hockenheimring,valtteri_bottas,76.759,q3,0.2189999999999941
 2014,10,20,hockenheimring,kamui_kobayashi,80.408,q1,3.867999999999995
 2014,10,21,hockenheimring,max_chilton,80.489,q1,3.948999999999998
-2014,10,22,hockenheimring,marcus_ericsson,,,0.0
+2014,10,22,hockenheimring,marcus_ericsson,,q1,0.0
 2014,10,3,hockenheimring,felipe_massa,77.078,q3,0.0
 2014,10,4,hockenheimring,kevin_magnussen,77.214,q3,4.084999999999994
 2014,10,5,hockenheimring,daniel_ricciardo,77.273,q3,4.143999999999991
@@ -232,8 +232,8 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2014,11,19,hungaroring,max_chilton,87.819,q1,5.103999999999999
 2014,11,2,hungaroring,sebastian_vettel,83.201,q3,0.48599999999999
 2014,11,20,hungaroring,marcus_ericsson,88.643,q1,5.927999999999997
-2014,11,21,hungaroring,lewis_hamilton,,,0.0
-2014,11,22,hungaroring,pastor_maldonado,,,0.0
+2014,11,21,hungaroring,lewis_hamilton,,q1,0.0
+2014,11,22,hungaroring,pastor_maldonado,,q1,0.0
 2014,11,3,hungaroring,valtteri_bottas,83.354,q3,0.0
 2014,11,4,hungaroring,daniel_ricciardo,83.391,q3,5.965000000000003
 2014,11,5,hungaroring,fernando_alonso,83.909,q3,6.483000000000004
@@ -631,7 +631,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2015,12,18,monza,will_stevens,87.731,q1,4.333999999999989
 2015,12,19,monza,roberto_merhi,87.912,q1,4.515000000000001
 2015,12,2,monza,kimi_raikkonen,83.631,q3,0.23399999999999466
-2015,12,20,monza,max_verstappen,,,0.0
+2015,12,20,monza,max_verstappen,,q1,0.0
 2015,12,3,monza,sebastian_vettel,83.685,q3,0.0
 2015,12,4,monza,nico_rosberg,83.703,q3,0.25199999999999534
 2015,12,5,monza,felipe_massa,83.94,q3,0.4889999999999901
@@ -730,7 +730,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2015,17,18,rodriguez,alexander_rossi,84.136,q1,4.655999999999992
 2015,17,19,rodriguez,will_stevens,84.386,q1,4.905999999999992
 2015,17,2,rodriguez,lewis_hamilton,79.668,q3,0.1880000000000024
-2015,17,20,rodriguez,jenson_button,,,0.0
+2015,17,20,rodriguez,jenson_button,,q1,0.0
 2015,17,3,rodriguez,sebastian_vettel,79.85,q3,0.0
 2015,17,4,rodriguez,daniil_kvyat,80.398,q3,0.7360000000000042
 2015,17,5,rodriguez,daniel_ricciardo,80.399,q3,0.737000000000009
@@ -750,7 +750,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2015,18,18,interlagos,alexander_rossi,76.151,q1,4.869
 2015,18,19,interlagos,will_stevens,76.283,q1,5.001000000000005
 2015,18,2,interlagos,lewis_hamilton,71.36,q3,0.07800000000000296
-2015,18,20,interlagos,fernando_alonso,,,0.0
+2015,18,20,interlagos,fernando_alonso,,q1,0.0
 2015,18,3,interlagos,sebastian_vettel,71.804,q3,0.0
 2015,18,4,interlagos,valtteri_bottas,72.085,q3,0.35899999999999466
 2015,18,5,interlagos,kimi_raikkonen,72.144,q3,0.41800000000000637
@@ -835,8 +835,8 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2016,3,19,shanghai,jolyon_palmer,99.528,q1,4.126000000000005
 2016,3,2,shanghai,daniel_ricciardo,95.917,q3,0.5150000000000006
 2016,3,20,shanghai,rio_haryanto,100.264,q1,4.861999999999995
-2016,3,21,shanghai,pascal_wehrlein,,,0.0
-2016,3,22,shanghai,lewis_hamilton,,,0.0
+2016,3,21,shanghai,pascal_wehrlein,,q1,0.0
+2016,3,22,shanghai,lewis_hamilton,,q1,0.0
 2016,3,3,shanghai,kimi_raikkonen,95.972,q3,0.0
 2016,3,4,shanghai,sebastian_vettel,96.246,q3,5.135999999999996
 2016,3,5,shanghai,valtteri_bottas,96.296,q3,5.186000000000007
@@ -902,7 +902,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2016,6,2,monaco,nico_rosberg,73.791,q3,0.16899999999999693
 2016,6,20,monaco,pascal_wehrlein,77.452,q1,3.8299999999999983
 2016,6,21,monaco,max_verstappen,82.467,q1,8.844999999999999
-2016,6,22,monaco,felipe_nasr,,,0.0
+2016,6,22,monaco,felipe_nasr,,q1,0.0
 2016,6,3,monaco,lewis_hamilton,73.942,q3,0.0
 2016,6,4,monaco,sebastian_vettel,74.552,q3,9.455000000000013
 2016,6,5,monaco,nico_hulkenberg,74.726,q3,9.629000000000005
@@ -1526,7 +1526,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2017,15,18,sepang,pascal_wehrlein,93.483,q1,3.4070000000000107
 2017,15,19,sepang,marcus_ericsson,93.97,q1,3.8940000000000055
 2017,15,2,sepang,kimi_raikkonen,90.121,q3,0.045000000000001705
-2017,15,20,sepang,sebastian_vettel,,,0.0
+2017,15,20,sepang,sebastian_vettel,,q1,0.0
 2017,15,3,sepang,max_verstappen,90.541,q3,0.0
 2017,15,4,sepang,daniel_ricciardo,90.595,q3,0.09900000000000375
 2017,15,5,sepang,valtteri_bottas,90.758,q3,0.26200000000000045
@@ -1605,7 +1605,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2017,19,18,interlagos,lance_stroll,70.776,q1,2.4539999999999935
 2017,19,19,interlagos,marcus_ericsson,70.875,q1,2.5529999999999973
 2017,19,2,interlagos,sebastian_vettel,68.36,q3,0.0379999999999967
-2017,19,20,interlagos,lewis_hamilton,,,0.0
+2017,19,20,interlagos,lewis_hamilton,,q1,0.0
 2017,19,3,interlagos,kimi_raikkonen,68.538,q3,0.0
 2017,19,4,interlagos,max_verstappen,68.925,q3,0.42499999999999716
 2017,19,5,interlagos,daniel_ricciardo,69.33,q3,0.8299999999999983
@@ -1705,7 +1705,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2018,4,18,baku,marcus_ericsson,105.541,q1,4.042999999999992
 2018,4,19,baku,brendon_hartley,117.354,q1,15.855999999999995
 2018,4,2,baku,lewis_hamilton,101.677,q3,0.17900000000000205
-2018,4,20,baku,romain_grosjean,,,0.0
+2018,4,20,baku,romain_grosjean,,q1,0.0
 2018,4,3,baku,valtteri_bottas,101.837,q3,0.0
 2018,4,4,baku,daniel_ricciardo,101.911,q3,0.2530000000000001
 2018,4,5,baku,max_verstappen,101.994,q3,0.3359999999999985
@@ -1725,7 +1725,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2018,5,18,catalunya,sergey_sirotkin,79.695,q1,3.5219999999999914
 2018,5,19,catalunya,lance_stroll,80.225,q1,4.0519999999999925
 2018,5,2,catalunya,valtteri_bottas,76.213,q3,0.03999999999999204
-2018,5,20,catalunya,brendon_hartley,,,0.0
+2018,5,20,catalunya,brendon_hartley,,q1,0.0
 2018,5,3,catalunya,sebastian_vettel,76.305,q3,0.0
 2018,5,4,catalunya,kimi_raikkonen,76.612,q3,0.34699999999998
 2018,5,5,catalunya,max_verstappen,76.816,q3,0.5509999999999877
@@ -1745,7 +1745,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2018,6,18,monaco,lance_stroll,73.323,q1,2.512999999999991
 2018,6,19,monaco,kevin_magnussen,73.393,q1,2.5829999999999984
 2018,6,2,monaco,sebastian_vettel,71.039,q3,0.2289999999999992
-2018,6,20,monaco,max_verstappen,,,0.0
+2018,6,20,monaco,max_verstappen,,q1,0.0
 2018,6,3,monaco,lewis_hamilton,71.232,q3,0.0
 2018,6,4,monaco,kimi_raikkonen,71.266,q3,0.26300000000000523
 2018,6,5,monaco,valtteri_bottas,71.441,q3,0.4380000000000024
@@ -1765,7 +1765,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2018,7,18,villeneuve,sergey_sirotkin,73.643,q1,2.879000000000005
 2018,7,19,villeneuve,marcus_ericsson,74.593,q1,3.8290000000000077
 2018,7,2,villeneuve,valtteri_bottas,70.857,q3,0.09300000000000352
-2018,7,20,villeneuve,romain_grosjean,,,0.0
+2018,7,20,villeneuve,romain_grosjean,,q1,0.0
 2018,7,3,villeneuve,max_verstappen,70.937,q3,0.0
 2018,7,4,villeneuve,lewis_hamilton,70.996,q3,0.15200000000000102
 2018,7,5,villeneuve,kimi_raikkonen,71.095,q3,0.2510000000000048
@@ -1823,9 +1823,9 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2018,10,16,silverstone,carlos_sainz,88.456,q1,2.564000000000007
 2018,10,17,silverstone,stoffel_vandoorne,89.096,q1,3.2040000000000077
 2018,10,18,silverstone,sergey_sirotkin,89.252,q1,3.3599999999999994
-2018,10,19,silverstone,lance_stroll,,,0.0
+2018,10,19,silverstone,lance_stroll,,q1,0.0
 2018,10,2,silverstone,sebastian_vettel,85.936,q3,0.0
-2018,10,20,silverstone,brendon_hartley,,,0.0
+2018,10,20,silverstone,brendon_hartley,,q1,0.0
 2018,10,3,silverstone,kimi_raikkonen,85.99,q3,0.0
 2018,10,4,silverstone,valtteri_bottas,86.217,q3,3.5870000000000033
 2018,10,5,silverstone,max_verstappen,86.602,q3,3.9720000000000084
@@ -2121,9 +2121,9 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,4,16,baku,nico_hulkenberg,103.427,q1,2.932000000000002
 2019,4,17,baku,george_russell,105.062,q1,4.566999999999993
 2019,4,18,baku,robert_kubica,105.455,q1,4.959999999999994
-2019,4,19,baku,kimi_raikkonen,,,0.0
+2019,4,19,baku,kimi_raikkonen,,q1,0.0
 2019,4,2,baku,lewis_hamilton,100.554,q3,0.0
-2019,4,20,baku,pierre_gasly,,,0.0
+2019,4,20,baku,pierre_gasly,,q1,0.0
 2019,4,3,baku,sebastian_vettel,100.797,q3,0.0
 2019,4,4,baku,max_verstappen,101.069,q3,5.231999999999999
 2019,4,5,baku,sergio_perez,101.593,q3,5.756
@@ -2263,7 +2263,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,11,18,hockenheimring,george_russell,74.721,q1,2.9540000000000077
 2019,11,19,hockenheimring,robert_kubica,74.839,q1,3.0720000000000027
 2019,11,2,hockenheimring,max_verstappen,72.113,q3,0.34600000000000364
-2019,11,20,hockenheimring,sebastian_vettel,,,0.0
+2019,11,20,hockenheimring,sebastian_vettel,,q1,0.0
 2019,11,3,hockenheimring,valtteri_bottas,72.129,q3,0.0
 2019,11,4,hockenheimring,pierre_gasly,72.522,q3,0.7390000000000043
 2019,11,5,hockenheimring,kimi_raikkonen,72.538,q3,0.7549999999999955
@@ -2303,7 +2303,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,13,18,spa,daniil_kvyat,106.518,q1,3.9989999999999952
 2019,13,19,spa,george_russell,107.548,q1,5.028999999999996
 2019,13,2,spa,sebastian_vettel,103.267,q3,0.7479999999999905
-2019,13,20,spa,robert_kubica,,,0.0
+2019,13,20,spa,robert_kubica,,q1,0.0
 2019,13,3,spa,lewis_hamilton,103.282,q3,0.0
 2019,13,4,spa,valtteri_bottas,103.415,q3,0.8810000000000002
 2019,13,5,spa,max_verstappen,103.69,q3,1.1559999999999917
@@ -2323,7 +2323,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,14,18,monza,george_russell,81.8,q1,2.492999999999995
 2019,14,19,monza,robert_kubica,82.356,q1,3.0489999999999924
 2019,14,2,monza,lewis_hamilton,79.346,q3,0.03900000000000148
-2019,14,20,monza,max_verstappen,,,0.0
+2019,14,20,monza,max_verstappen,,q1,0.0
 2019,14,3,monza,valtteri_bottas,79.354,q3,0.0
 2019,14,4,monza,sebastian_vettel,79.457,q3,0.1419999999999959
 2019,14,5,monza,daniel_ricciardo,79.839,q3,0.5240000000000009
@@ -2343,7 +2343,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,15,18,marina_bay,george_russell,100.867,q1,4.650000000000006
 2019,15,19,marina_bay,robert_kubica,101.186,q1,4.969000000000008
 2019,15,2,marina_bay,lewis_hamilton,96.408,q3,0.1910000000000025
-2019,15,20,marina_bay,daniel_ricciardo,,,0.0
+2019,15,20,marina_bay,daniel_ricciardo,,q1,0.0
 2019,15,3,marina_bay,sebastian_vettel,96.437,q3,0.0
 2019,15,4,marina_bay,max_verstappen,96.813,q3,0.5670000000000073
 2019,15,5,marina_bay,valtteri_bottas,97.146,q3,0.9000000000000057
@@ -2381,9 +2381,9 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,17,16,suzuka,daniel_ricciardo,89.822,q1,2.7580000000000098
 2019,17,17,suzuka,sergio_perez,90.344,q1,3.280000000000001
 2019,17,18,suzuka,george_russell,90.364,q1,3.3000000000000114
-2019,17,19,suzuka,kevin_magnussen,,,0.0
+2019,17,19,suzuka,kevin_magnussen,,q1,0.0
 2019,17,2,suzuka,charles_leclerc,87.253,q3,0.0
-2019,17,20,suzuka,robert_kubica,,,0.0
+2019,17,20,suzuka,robert_kubica,,q1,0.0
 2019,17,3,suzuka,valtteri_bottas,87.293,q3,0.0
 2019,17,4,suzuka,lewis_hamilton,87.302,q3,3.3090000000000117
 2019,17,5,suzuka,max_verstappen,87.851,q3,3.858000000000004
@@ -2443,7 +2443,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2019,20,18,interlagos,george_russell,70.126,q1,2.618000000000009
 2019,20,19,interlagos,robert_kubica,70.614,q1,3.1060000000000088
 2019,20,2,interlagos,sebastian_vettel,67.631,q3,0.12300000000000466
-2019,20,20,interlagos,carlos_sainz,,,0.0
+2019,20,20,interlagos,carlos_sainz,,q1,0.0
 2019,20,3,interlagos,lewis_hamilton,67.699,q3,0.0
 2019,20,4,interlagos,charles_leclerc,67.728,q3,0.15200000000000102
 2019,20,5,interlagos,valtteri_bottas,67.874,q3,0.2980000000000018
@@ -2503,7 +2503,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2020,2,18,red_bull_ring,nicholas_latifi,81.759,q1,2.486000000000004
 2020,2,19,red_bull_ring,antonio_giovinazzi,81.831,q1,2.558000000000007
 2020,2,2,red_bull_ring,max_verstappen,80.489,q3,1.2160000000000082
-2020,2,20,red_bull_ring,romain_grosjean,,,0.0
+2020,2,20,red_bull_ring,romain_grosjean,,q1,0.0
 2020,2,3,red_bull_ring,carlos_sainz,80.671,q3,0.0
 2020,2,4,red_bull_ring,valtteri_bottas,80.701,q3,1.2459999999999951
 2020,2,5,red_bull_ring,esteban_ocon,80.922,q3,1.4669999999999987
@@ -2843,7 +2843,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2021,2,18,imola,mick_schumacher,76.279,q1,1.867999999999995
 2021,2,19,imola,nikita_mazepin,76.797,q1,2.3859999999999957
 2021,2,2,imola,sergio_perez,74.446,q3,0.03499999999999659
-2021,2,20,imola,yuki_tsunoda,,,0.0
+2021,2,20,imola,yuki_tsunoda,,q1,0.0
 2021,2,3,imola,max_verstappen,74.498,q3,0.0
 2021,2,4,imola,charles_leclerc,74.74,q3,0.2769999999999868
 2021,2,5,imola,pierre_gasly,74.79,q3,0.3269999999999982
@@ -2920,9 +2920,9 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2021,6,16,baku,nicholas_latifi,103.128,q1,1.9099999999999966
 2021,6,17,baku,mick_schumacher,104.158,q1,2.9399999999999977
 2021,6,18,baku,nikita_mazepin,104.238,q1,3.019999999999996
-2021,6,19,baku,lance_stroll,,,0.0
+2021,6,19,baku,lance_stroll,,q1,0.0
 2021,6,2,baku,lewis_hamilton,101.45,q3,0.0
-2021,6,20,baku,antonio_giovinazzi,,,0.0
+2021,6,20,baku,antonio_giovinazzi,,q1,0.0
 2021,6,3,baku,max_verstappen,101.563,q3,0.0
 2021,6,4,baku,pierre_gasly,101.565,q3,3.0219999999999914
 2021,6,5,baku,carlos_sainz,101.576,q3,3.032999999999987
@@ -2940,9 +2940,9 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2021,7,16,ricard,nicholas_latifi,93.062,q1,3.0720000000000027
 2021,7,17,ricard,kimi_raikkonen,93.354,q1,3.3640000000000043
 2021,7,18,ricard,nikita_mazepin,93.554,q1,3.564000000000007
-2021,7,19,ricard,lance_stroll,,,0.0
+2021,7,19,ricard,lance_stroll,,q1,0.0
 2021,7,2,ricard,lewis_hamilton,90.248,q3,0.0
-2021,7,20,ricard,yuki_tsunoda,,,0.0
+2021,7,20,ricard,yuki_tsunoda,,q1,0.0
 2021,7,3,ricard,valtteri_bottas,90.376,q3,0.0
 2021,7,4,ricard,sergio_perez,90.445,q3,3.6329999999999956
 2021,7,5,ricard,carlos_sainz,90.84,q3,4.028000000000006
@@ -3022,7 +3022,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2021,11,18,hungaroring,nicholas_latifi,78.036,q1,2.6170000000000044
 2021,11,19,hungaroring,nikita_mazepin,78.922,q1,3.503
 2021,11,2,hungaroring,valtteri_bottas,75.734,q3,0.3149999999999977
-2021,11,20,hungaroring,mick_schumacher,,,0.0
+2021,11,20,hungaroring,mick_schumacher,,q1,0.0
 2021,11,3,hungaroring,max_verstappen,75.84,q3,0.0
 2021,11,4,hungaroring,sergio_perez,76.421,q3,0.8960000000000008
 2021,11,5,hungaroring,pierre_gasly,76.483,q3,0.9579999999999984
@@ -3102,7 +3102,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2021,15,18,sochi,antonio_giovinazzi,111.023,q1,9.030000000000001
 2021,15,19,sochi,nikita_mazepin,113.764,q1,11.771
 2021,15,2,sochi,carlos_sainz,102.51,q3,0.5170000000000101
-2021,15,20,sochi,max_verstappen,,,0.0
+2021,15,20,sochi,max_verstappen,,q1,0.0
 2021,15,3,sochi,george_russell,102.983,q3,0.0
 2021,15,4,sochi,lewis_hamilton,104.05,q3,1.5840000000000032
 2021,15,5,sochi,daniel_ricciardo,104.156,q3,1.690000000000012
@@ -3282,7 +3282,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2022,2,18,jeddah,nico_hulkenberg,90.543,q1,2.3430000000000035
 2022,2,19,jeddah,nicholas_latifi,91.817,q1,3.6169999999999902
 2022,2,2,jeddah,charles_leclerc,88.225,q3,0.024999999999991473
-2022,2,20,jeddah,yuki_tsunoda,,,0.0
+2022,2,20,jeddah,yuki_tsunoda,,q1,0.0
 2022,2,3,jeddah,carlos_sainz,88.402,q3,0.0
 2022,2,4,jeddah,max_verstappen,88.461,q3,0.08399999999998897
 2022,2,5,jeddah,esteban_ocon,89.068,q3,0.6909999999999883
@@ -3302,7 +3302,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2022,3,18,albert_park,sebastian_vettel,81.149,q1,3.281000000000006
 2022,3,19,albert_park,nicholas_latifi,81.372,q1,3.504000000000005
 2022,3,2,albert_park,max_verstappen,78.154,q3,0.28600000000000136
-2022,3,20,albert_park,lance_stroll,,,0.0
+2022,3,20,albert_park,lance_stroll,,q1,0.0
 2022,3,3,albert_park,sergio_perez,78.24,q3,0.0
 2022,3,4,albert_park,lando_norris,78.703,q3,0.7490000000000094
 2022,3,5,albert_park,lewis_hamilton,78.825,q3,0.8710000000000093
@@ -3322,7 +3322,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2022,4,18,imola,nicholas_latifi,81.971,q1,0.0
 2022,4,19,imola,esteban_ocon,82.338,q1,0.0
 2022,4,2,imola,charles_leclerc,88.778,q3,0.7790000000000106
-2022,4,20,imola,alexander_albon,,,0.0
+2022,4,20,imola,alexander_albon,,q1,0.0
 2022,4,3,imola,lando_norris,89.131,q3,0.0
 2022,4,4,imola,kevin_magnussen,89.164,q3,0.8120000000000118
 2022,4,5,imola,fernando_alonso,89.202,q3,0.8500000000000085
@@ -3342,7 +3342,7 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2022,5,18,miami,alexander_albon,91.266,q1,2.469999999999999
 2022,5,19,miami,nicholas_latifi,91.325,q1,2.5289999999999964
 2022,5,2,miami,carlos_sainz,88.986,q3,0.18999999999999773
-2022,5,20,miami,esteban_ocon,,,0.0
+2022,5,20,miami,esteban_ocon,,q1,0.0
 2022,5,3,miami,max_verstappen,88.991,q3,0.0
 2022,5,4,miami,sergio_perez,89.036,q3,0.23499999999999943
 2022,5,5,miami,valtteri_bottas,89.475,q3,0.6739999999999924
