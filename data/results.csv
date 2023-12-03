@@ -3703,6 +3703,6 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 2022,22,yas_marina,valtteri_bottas,1989-08-28,Finnish,alfa,18,,+1 Lap,0.0,15,1:30.352
 2022,22,yas_marina,mick_schumacher,1999-03-22,German,haas,12,,+1 Lap,0.0,16,1:29.833
 2022,22,yas_marina,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0.0,17,1:31.158
-2022,22,yas_marina,lewis_hamilton,1985-01-07,British,mercedes,5,,Gearbox,0.0,18,1:29.788
+2022,22,yas_marina,lewis_hamilton,1985-01-07,British,mercedes,5,,Hydraulics,0.0,18,1:29.788
 2022,22,yas_marina,nicholas_latifi,1995-06-29,Canadian,williams,20,,Collision damage,0.0,19,1:30.309
 2022,22,yas_marina,fernando_alonso,1981-07-29,Spanish,alpine,10,,Water leak,0.0,20,1:30.579

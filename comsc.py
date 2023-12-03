@@ -10,7 +10,7 @@ pp_grade = m * 50         ###     ...
 
 weighted_modules = (cyber_grade + forensics_grade + dssa_grade + app_ml_grade + prnc_ml_grade + pp_grade)
 
-weighted_diss = d * 70
+weighted_diss = d * 74
 
 final_grade = ((weighted_diss + weighted_modules) / 180 )
 
